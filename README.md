@@ -11,7 +11,7 @@
 <a href=""><img src="" title="TMC">
 <a href=""><img src="" title="TFX">
 <a href="http://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
-<a href=""><img src="" title="LCP / Public Senat">
+<a href=""><img src="" title="LCP / Public Sénat">
 <a href=""><img src="" title="France 4">
 <a href=""><img src="" title="BFM TV">
 <a href=""><img src="" title="CNEWS">
@@ -32,3 +32,15 @@
 <a href=""><img src="" title="MANGO Histoire">
 <a href=""><img src="" title="MANGO Kids">
 <a href=""><img src="" title="MANGO Novelas">
+<a href=""><img src="" title="France 24">
+<a href=""><img src="" title="CGTN Français">
+<a href=""><img src="" title="CGTN">
+<a href=""><img src="" title="ina">
+<a href=""><img src="" title="LCP">
+<a href=""><img src="" title="Public Sénat">
+<a href=""><img src="" title="F Live">
+<a href=""><img src="" title="BFM Business">
+<a href=""><img src="" title="BFM Paris">
+<a href=""><img src="" title="BFM Lyon">
+<a href=""><img src="" title="Sport en France">
+<a href=""><img src="" title="M24">
