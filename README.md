@@ -39,9 +39,12 @@
 <a href=""><img src="https://i.imgur.com/7I5tcaz.png" title="ina">
 <a href=""><img src="https://i.imgur.com/hP7Vrct.png" title="LCP">
 <a href="https://www.dailymotion.com/embed/video/xkxbzc"><img src="https://i.imgur.com/J98BMed.png" title="Public Sénat">
-<a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F234%2Fsections%3FtrkCp%3Dhome_channels%26trkCs%3Dlive%26trkOcr%3D41%26trkOsp%3D2"><img src="https://i.imgur.com/7glGgqI.png" height="80" width="80" title="F Live">
+<a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F234%2Fsections%3FtrkCp%3Dhome_channels%26trkCs%3Dlive%26trkOcr%3D41%26trkOsp%3D2"><img src="https://i.imgur.com/7glGgqI.png" height="80" width="80" title="Figaro Live">
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050caf7aqga10jo59ekg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/IuuyI5W.png" title="BFM Business">
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/ScQqlr9.png" title="BFM Paris">
 <a href="https://rplayer.surge.sh/?url=https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/LYMaQ2N.png" title="BFM Lyon">
 <a href=""><img src="https://i.imgur.com/HOrQuen.png" title="Sport en France">
 <a href=""><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/X46FBUI.png" title="AB1">
+<a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/KYTZt47.png" height="80" width="80" title="KTO">
+<a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="" title="euronews">
