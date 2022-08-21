@@ -10,7 +10,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/w9/w9.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/dRAPU7O.png" title="W9">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tmc/tmc.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tfx/tfx.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
-<a href="http://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
+<a href="http://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
 <a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
