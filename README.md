@@ -14,11 +14,11 @@
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
 <a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
-<a href="https://www.dailymotion.com/embed/video/x3b68jn"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
-<a href="https://www.dailymotion.com/embed/video/x5gv5v0"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
+<a href="https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
+<a href="https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
-<a href="https://www.dailymotion.com/embed/video/x2lefik"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
+<a href="https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/6ter/6ter.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
@@ -37,8 +37,8 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cgtnfr/cgtnfr.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/FvxRyUO.png" title="CGTN Français">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cgtn/cgtn.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/RvXlNbb.png" title="CGTN">
 <a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F159%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D40%26trkOsp%3D2"><img src="https://i.imgur.com/7I5tcaz.png" title="ina">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/lcp/lcp.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/hP7Vrct.png" title="LCP">
-<a href="https://www.dailymotion.com/embed/video/xkxbzc"><img src="https://i.imgur.com/J98BMed.png" title="Public Sénat">
+<a href="https://www.dailymotion.com/embed/video/xji3qy?autoPlay=1"><img src="https://i.imgur.com/hP7Vrct.png" title="LCP">
+<a href="https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1"><img src="https://i.imgur.com/J98BMed.png" title="Public Sénat">
 <a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F234%2Fsections%3FtrkCp%3Dhome_channels%26trkCs%3Dlive%26trkOcr%3D41%26trkOsp%3D2"><img src="https://i.imgur.com/7glGgqI.png" height="80" width="80" title="Figaro Live">
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050caf7aqga10jo59ekg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/IuuyI5W.png" title="BFM Business">
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/ScQqlr9.png" title="BFM Paris">
