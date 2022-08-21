@@ -18,7 +18,7 @@
 <a href="https://www.dailymotion.com/embed/video/x5gv5v0"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/lequipe/lequipe.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
+<a href="https://www.dailymotion.com/embed/video/x2lefik"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/6ter/6ter.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
