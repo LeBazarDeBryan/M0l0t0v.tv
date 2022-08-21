@@ -13,34 +13,35 @@
 <a href="http://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
-<a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="blob:https://imgur.com/2d0c377a-b27d-4bab-b295-4fa5e2278703" title="BFM TV">
+<a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
 <a href="https://www.dailymotion.com/embed/video/x3b68jn"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
 <a href="https://www.dailymotion.com/embed/video/x5gv5v0"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/lequipe/lequipe.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
-<a href=""><img src="" title="6ter">
-<a href=""><img src="" title="RMC Sport">
-<a href=""><img src="" title="RMC Découverte">
-<a href=""><img src="" title="Chérie 25">
+<a href=""><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
+<a href=""><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
+<a href=""><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
+<a href=""><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
 <a href="https://rplayer.surge.sh/?url=https://lci-das-live-ssl.tf1.fr/video/R8UoFyO9kVhlneuJJIybyg/1661100990/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
-<a href=""><img src="" title="franceinfo:">
-<a href=""><img src="" title="MANGO">
-<a href=""><img src="" title="MANGO Cinéma">
-<a href=""><img src="" title="MANGO Séries">
-<a href=""><img src="" title="MANGO Dogs">
-<a href=""><img src="" title="MANGO Histoire">
-<a href=""><img src="" title="MANGO Kids">
-<a href=""><img src="" title="MANGO Novelas">
-<a href=""><img src="" title="France 24">
-<a href=""><img src="" title="CGTN Français">
-<a href=""><img src="" title="CGTN">
-<a href=""><img src="" title="ina">
-<a href=""><img src="" title="LCP">
-<a href=""><img src="" title="Public Sénat">
-<a href=""><img src="" title="F Live">
-<a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050caf7aqga10jo59ekg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"><img src="" title="BFM Business">
-<a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"><img src="" title="BFM Paris">
-<a href="https://rplayer.surge.sh/?url=https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END"><img src="" title="BFM Lyon">
-<a href=""><img src="" title="Sport en France">
-<a href=""><img src="" title="M24">
+<a href="https://www.youtube.com/watch?v=Z-Nwo-ypKtM"><img src="https://i.imgur.com/Fm4HJ6M.png" title="franceinfo:">
+<a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango/mango.isml/fullhd25shft.mpd"><img src="https://i.imgur.com/qPC3x37.png" title="MANGO">
+<a href=""><img src="https://i.imgur.com/jPz2OH1.png" title="MANGO Cinéma">
+<a href=""><img src="https://i.imgur.com/9HIJXSn.png" title="MANGO Séries">
+<a href=""><img src="https://i.imgur.com/agj6U0t.png" title="MANGO Docs">
+<a href=""><img src="https://i.imgur.com/Clpq0px.png" title="MANGO Histoire">
+<a href=""><img src="https://i.imgur.com/Szg5bdV.png" title="MANGO Kids">
+<a href=""><img src="https://i.imgur.com/6UkST81.png" title="MANGO Novelas">
+<a href="https://rplayer.surge.sh/?url=https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/3gp4D22.png" title="Wild Side TV">
+<a href=""><img src="https://i.imgur.com/TQvMBFy.png" title="France 24">
+<a href=""><img src="https://i.imgur.com/FvxRyUO.png" title="CGTN Français">
+<a href=""><img src="https://i.imgur.com/RvXlNbb.png" title="CGTN">
+<a href=""><img src="https://i.imgur.com/7I5tcaz.png" title="ina">
+<a href=""><img src="https://i.imgur.com/hP7Vrct.png" title="LCP">
+<a href="https://www.dailymotion.com/embed/video/xkxbzc"><img src="https://i.imgur.com/J98BMed.png" title="Public Sénat">
+<a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F234%2Fsections%3FtrkCp%3Dhome_channels%26trkCs%3Dlive%26trkOcr%3D41%26trkOsp%3D2"><img src="https://i.imgur.com/7glGgqI.png" height="80" width="80" title="F Live">
+<a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050caf7aqga10jo59ekg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/IuuyI5W.png" title="BFM Business">
+<a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/ScQqlr9.png" title="BFM Paris">
+<a href="https://rplayer.surge.sh/?url=https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/LYMaQ2N.png" title="BFM Lyon">
+<a href=""><img src="https://i.imgur.com/HOrQuen.png" title="Sport en France">
+<a href=""><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
