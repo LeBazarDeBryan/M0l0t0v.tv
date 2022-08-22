@@ -33,59 +33,74 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNE
 https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/B9GfpDR.png" group-title="",Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/oN9xZYT.png" group-title="",TF1 Séries Films
+https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/hdready.mpd
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="",L'Équipe
+https://www.dailymotion.com/video/x2lefik
+#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="",6ter
+https://mtv-live.cloud-02.molotov.tv/public/6ter/6ter.isml/hdready.mpd
+#EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="",RMC Story
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",L'Équipe
+#EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="",RMC Découverte
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",6ter
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g9EdDZC.png" group-title="",Chérie 25
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RMC Story
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RMC Découverte
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Chérie 25
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",LCI
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FpltHeB.png" group-title="",LCI
+https://lci-das-live-ssl.tf1.fr/video/2HS9Vv_v0XZ1hwcmEykL5A/1661181829/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",franceinfo:
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MANGO
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MANGO Cinéma
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MANGO Séries
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MANGO Docs
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MANGO Histoire
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MANGO Kids
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MANGO Novelas
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Wild Side TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",France 24
+https://www.youtube.com/c/FRANCE24/live
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",LCP
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Public Sénat
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BFM Business
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BFM Paris
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BFM Lyon
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sport en France
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M24
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TV5 Monde
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RTL9
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AB1
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KTO
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",Euronews
+https://www.youtube.com/watch?v=MsN0_WNXvh8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfants",Boomerang
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Gong
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trace Urban
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Trace Sport Stars
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fashion TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Luxe TV 4K
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Gulli Bil Arabi
