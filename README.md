@@ -6,7 +6,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france5/france5.isml/hdready.mpd"><img src="https://i.imgur.com/HlKW65X.png" title="France 5">
 <a href="https://rplayer.surge.sh/?url=https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"><img src="https://i.imgur.com/Baadm99.png" title="M6">
 <a href="https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"><img src="https://i.imgur.com/iUgaOBk.png" title="Arte">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/c8/c8.isml/hdready.mpd"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
+<a href="https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/w9/w9.isml/hdready.mpd"><img src="https://i.imgur.com/dRAPU7O.png" title="W9">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tmc/tmc.isml/hdready.mpd"><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tfx/tfx.isml/hdready.mpd"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
@@ -48,3 +48,4 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd"><img src="https://i.imgur.com/X46FBUI.png" title="AB1">
 <a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/KYTZt47.png" height="80" width="80" title="KTO">
 <a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd"><img src="https://i.imgur.com/4V1l2vV.png" title="Boomerang">
