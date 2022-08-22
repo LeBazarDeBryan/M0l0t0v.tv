@@ -4,7 +4,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france2/france2.isml/hdready.mpd"><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france3/france3.isml/hdready.mpd"><img src="https://i.imgur.com/ZgTTt3L.png" title="France 3">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france5/france5.isml/hdready.mpd"><img src="https://i.imgur.com/HlKW65X.png" title="France 5">
-<a href="https://rplayer.surge.sh/?url=https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"><img src="https://i.imgur.com/Baadm99.png" title="M6">
+<a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"><img src="https://i.imgur.com/Baadm99.png" title="M6">
 <a href="https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"><img src="https://i.imgur.com/iUgaOBk.png" title="Arte">
 <a href="https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/w9/w9.isml/hdready.mpd"><img src="https://i.imgur.com/dRAPU7O.png" title="W9">
@@ -52,5 +52,8 @@
 <a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd"><img src="https://i.imgur.com/4V1l2vV.png" title="Boomerang">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd"><img src="https://i.imgur.com/Q4Wz51U.png" title="Gong">
+<a href="https://www.hlsplayer.org/play?url=https%3A%2F%2Flightning-traceurban-samsungau.amagi.tv%2Fplaylist.m3u8"><img src="https://i.imgur.com/el7rxCx.png" title="Trace Urban">
+<a href="https://www.hlsplayer.org/play?url=https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/smnmkcQ.png" title="Trace Sport Stars">
 <a href="https://rplayer.surge.sh/?url=https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/N6rn8J3.png" title="Fashion TV">
 <a href="http://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd"><img src="https://i.imgur.com/DeZNN72.png" title="Luxe TV 4K">
+<a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8"><img src="https://i.imgur.com/fp4FWif.png" title="Gulli Bil Arabi">
