@@ -45,7 +45,12 @@
 <a href="https://rplayer.surge.sh/?url=https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/LYMaQ2N.png" title="BFM Lyon">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sportenfrance/sportenfrance.isml/hdready.mpd"><img src="https://i.imgur.com/HOrQuen.png" title="Sport en France">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/m24news/m24news.isml/hdready.mpd"><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tv5monde/tv5monde.isml/hdready.mpd"><img src="https://i.imgur.com/AsWc1OH.png" title="TV5 Monde">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd"><img src="https://i.imgur.com/DYkt5XW.png" title="RTL9">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd"><img src="https://i.imgur.com/X46FBUI.png" title="AB1">
-<a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/KYTZt47.png" height="80" width="80" title="KTO">
+<a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/zTXLfjX.png" title="KTO">
 <a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd"><img src="https://i.imgur.com/4V1l2vV.png" title="Boomerang">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd"><img src="https://i.imgur.com/Q4Wz51U.png" title="Gong">
+<a href="https://rplayer.surge.sh/?url=https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/N6rn8J3.png" title="Fashion TV">
+<a href="http://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd"><img src="https://i.imgur.com/DeZNN72.png" title="Luxe TV 4K">
