@@ -52,5 +52,5 @@
 <a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd"><img src="https://i.imgur.com/4V1l2vV.png" title="Boomerang">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd"><img src="https://i.imgur.com/Q4Wz51U.png" title="Gong">
-<a href="https://rplayer.surge.sh/?url=https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/N6rn8J3.png" title="Fashion TV">
+<a href="https://rplayer.surge.sh/?url=https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/N6rn8J3.png" title="Fashion TV">
 <a href="http://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd"><img src="https://i.imgur.com/DeZNN72.png" title="Luxe TV 4K">
