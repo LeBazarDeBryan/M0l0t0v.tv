@@ -11,7 +11,7 @@ https://mtv-live.cloud-02.molotov.tv/public/france5/france5.isml/hdready.mpd
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="Arte.tv" tvg-logo="https://i.imgur.com/iUgaOBk.png" group-title="Documentaire",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="Canalplus.fr" tvg-logo="https://i.imgur.com/HnvLFwK.png" group-title="Cinéma, Séries",C8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://i.imgur.com/HnvLFwK.png" group-title="Cinéma, Séries",C8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/dRAPU7O.png" group-title="",W9
 https://mtv-live.cloud-02.molotov.tv/public/w9/w9.isml/hdready.mpd
@@ -25,3 +25,67 @@ https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd
 https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
 https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/hdready.mpd
+#EXTINF:-1 tvg-id="BFMTV.com" tvg-logo="https://i.imgur.com/0A1Kfyd.png" group-title="Information",BFM TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.bfmtv.com/en-direct/
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/XqQErhH.png" group-title="",CNEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/fa1H0oA.png" group-title="",CSTAR
+https://www.dailymotion.com/video/x5gv5v0
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/B9GfpDR.png" group-title="",Gulli
+https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TF1 Séries Films
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",L'Équipe
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",6ter
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RMC Story
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RMC Découverte
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Chérie 25
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",LCI
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",franceinfo:
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
