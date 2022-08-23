@@ -43,8 +43,8 @@ Chaînes
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-novelas/mango-novelas.isml/hdready.mpd"><img src="https://i.imgur.com/6UkST81.png" title="MANGO Novelas">
 <a href="https://rplayer.surge.sh/?url=https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/3gp4D22.png" title="Wild Side TV">
 <a href="https://www.youtube.com/embed/gxG3pdKvlIs"><img src="https://i.imgur.com/TQvMBFy.png" title="France 24">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cgtnfr/cgtnfr.isml/hdready.mpd"><img src="https://i.imgur.com/FvxRyUO.png" title="CGTN Français">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cgtn/cgtn.isml/hdready.mpd"><img src="https://i.imgur.com/RvXlNbb.png" title="CGTN">
+<a href="https://rplayer.surge.sh/?url=https://news.cgtn.com/resource/live/french/cgtn-f.m3u8"><img src="https://i.imgur.com/FvxRyUO.png" title="CGTN Français">
+<a href="https://rplayer.surge.sh/?url=https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"><img src="https://i.imgur.com/RvXlNbb.png" title="CGTN">
 <a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F159%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D40%26trkOsp%3D2"><img src="https://i.imgur.com/7I5tcaz.png" title="ina">
 <a href="https://www.dailymotion.com/embed/video/xji3qy?autoPlay=1"><img src="https://i.imgur.com/hP7Vrct.png" title="LCP">
 <a href="https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1"><img src="https://i.imgur.com/J98BMed.png" title="Public Sénat">
