@@ -32,7 +32,7 @@ Chaînes
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/hdready.mpd"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cherie25/cherie25.isml/hdready.mpd"><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
-<a href="https://rplayer.surge.sh/?url=https://lci-das-live-ssl.tf1.fr/video/2HS9Vv_v0XZ1hwcmEykL5A/1661181829/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
+<a href="https://www.tf1info.fr/direct/"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
 <a href="https://www.youtube.com/watch?v=Z-Nwo-ypKtM"><img src="https://i.imgur.com/Fm4HJ6M.png" title="franceinfo:">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango/mango.isml/hdready.mpd"><img src="https://i.imgur.com/qPC3x37.png" title="MANGO">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-cinema/mango-cinema.isml/hdready.mpd"><img src="https://i.imgur.com/jPz2OH1.png" title="MANGO Cinéma">
