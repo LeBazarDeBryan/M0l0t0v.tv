@@ -86,7 +86,7 @@ https://mtv-live.cloud-02.molotov.tv/public/sportenfrance/sportenfrance.isml/hdr
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pq7p5U2.png" group-title="Étrangères",M24
 https://mtv-live.cloud-02.molotov.tv/public/m24news/m24news.isml/hdready.mpd
 #EXTINF:-1 tvg-id="TV5Monde.com" tvg-logo="https://i.imgur.com/AsWc1OH.png" group-title="Information",TV5 Monde
-https://mtv-live.cloud-02.molotov.tv/public/tv5monde/tv5monde.isml/hdready.mpd
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DYkt5XW.png" group-title="Cinéma, Séries",RTL9
 https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X46FBUI.png" group-title="Cinéma, Séries",AB1
