@@ -24,7 +24,7 @@ https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd
 #EXTINF:-1 tvg-id="LCP.fr / PublicSenat.fr" tvg-logo="https://i.imgur.com/QgySpKN.png" group-title="Information",LCP / Public Sénat
 https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
-https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/hdready.mpd
+https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/hdready.mpd
 #EXTINF:-1 tvg-id="BFMTV.com" tvg-logo="https://i.imgur.com/0A1Kfyd.png" group-title="Information",BFM TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.bfmtv.com/en-direct/
 #EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/XqQErhH.png" group-title="",CNEWS
@@ -68,7 +68,7 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TQvMBFy.png" group-title="Information",France 24
 https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FvxRyUO.png" group-title="Étrangères",CGTN Français
-https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cgtnfr/cgtnfr.isml/hdready.mpd
+https://mtv-live.cloud-02.molotov.tv/public/cgtnfr/cgtnfr.isml/hdready.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="Étrangères",CGTN
 https://mtv-live.cloud-02.molotov.tv/public/cgtn/cgtn.isml/hdready.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hP7Vrct.png" group-title="Information",LCP
