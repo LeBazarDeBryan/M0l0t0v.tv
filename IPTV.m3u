@@ -43,11 +43,11 @@ https://mtv-live.cloud-02.molotov.tv/public/6ter/6ter.isml/hdready.mpd
 https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd
 #EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="Documentaire & Culture",RMC Découverte
 https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g9EdDZC.png" group-title="",Chérie 25
+#EXTINF:-1 tvg-id="NRJ-Play.fr" tvg-logo="https://i.imgur.com/g9EdDZC.png" group-title="",Chérie 25
 https://mtv-live.cloud-02.molotov.tv/public/cherie25/cherie25.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FpltHeB.png" group-title="",LCI
-https://lci-das-live-ssl.tf1.fr/video/2HS9Vv_v0XZ1hwcmEykL5A/1661181829/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Fm4HJ6M.png" group-title="",franceinfo:
+#EXTINF:-1 tvg-id="TF1Info.fr" tvg-logo="https://i.imgur.com/FpltHeB.png" group-title="Information",LCI
+
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Fm4HJ6M.png" group-title="Information",franceinfo:
 https://www.youtube.com/watch?v=Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qPC3x37.png" group-title="Cinéma, Séries",MANGO
 https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango/mango.isml/hdready.mpd
@@ -63,7 +63,7 @@ https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-histoire/mango-histoire
 https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-kids/mango-kids.isml/hdready.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UkST81.png" group-title="Cinéma, Séries",MANGO Novelas
 https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-novelas/mango-novelas.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3gp4D22.png" group-title="Cinéma, Séries",Wild Side TV
+#EXTINF:-1 tvg-id="WildSide.fr" tvg-logo="https://i.imgur.com/3gp4D22.png" group-title="Cinéma, Séries",Wild Side TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TQvMBFy.png" group-title="Information",France 24
 https://www.youtube.com/c/FRANCE24/live
@@ -83,31 +83,34 @@ https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050c
 https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HOrQuen.png" group-title="Sport",Sport en France
 https://mtv-live.cloud-02.molotov.tv/public/sportenfrance/sportenfrance.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pq7p5U2.png" group-title="Étrangères",M24
-https://mtv-live.cloud-02.molotov.tv/public/m24news/m24news.isml/hdready.mpd
+#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/Pq7p5U2.png" group-title="Étrangères",M24
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.com" tvg-logo="https://i.imgur.com/AsWc1OH.png" group-title="Information",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DYkt5XW.png" group-title="Cinéma, Séries",RTL9
+#EXTINF:-1 tvg-id="RTL9.com" tvg-logo="https://i.imgur.com/DYkt5XW.png" group-title="Cinéma, Séries",RTL9
 https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X46FBUI.png" group-title="Cinéma, Séries",AB1
+#EXTINF:-1 tvg-id="AB1.tv" tvg-logo="https://i.imgur.com/X46FBUI.png" group-title="Cinéma, Séries",AB1
 https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zTXLfjX.png" group-title="Documentaire & Culture",KTO
+#EXTINF:-1 tvg-id="KTOTV.com" tvg-logo="https://i.imgur.com/zTXLfjX.png" group-title="Documentaire & Culture",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
+#EXTINF:-1 tvg-id="EuroNews.com" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
 https://www.youtube.com/watch?v=MsN0_WNXvh8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
+#EXTINF:-1 tvg-id="BoomerangTV.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
 https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="",Gong
+#EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="",Gong
 https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Divertissement",Trace Urban
+#EXTINF:-1 tvg-id="Mezzo.fr" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Divertissement",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/smnmkcQ.png" group-title="Sport",Trace Sport Stars
+#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/smnmkcQ.png" group-title="Sport",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N6rn8J3.png" group-title="Documentaire & Culture",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV.com" tvg-logo="https://i.imgur.com/N6rn8J3.png" group-title="Documentaire & Culture",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DeZNN72.png" group-title="Divertissement",Luxe TV 4K
+#EXTINF:-1 tvg-id="Luxe.tv" tvg-logo="https://i.imgur.com/DeZNN72.png" group-title="Divertissement",Luxe TV 4K
 https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fp4FWif.png" group-title="Étrangères",Gulli Bil Arabi
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
+#EXTINF:-1 tvg-id="PlayBoyTV.eu" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
 https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd
