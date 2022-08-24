@@ -22,7 +22,7 @@ Chaînes
 <a href="http://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/hdready.mpd"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
-<a href="*https://n0ub4x.github.io/M0l0t0v.tv/TV/BFM%20TV/"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
+<a href="https://n0ub4x.github.io/M0l0t0v.tv/TV/BFM%20TV/"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
 <a href="https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
 <a href="https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
