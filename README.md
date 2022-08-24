@@ -22,7 +22,7 @@ Chaînes
 <a href="http://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/hdready.mpd"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
-<a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
+<a href="*https://n0ub4x.github.io/M0l0t0v.tv/TV/BFM%20TV/"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
 <a href="https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
 <a href="https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
@@ -49,7 +49,7 @@ Chaînes
 <a href="https://www.dailymotion.com/embed/video/xji3qy?autoPlay=1"><img src="https://i.imgur.com/hP7Vrct.png" title="LCP">
 <a href="https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1"><img src="https://i.imgur.com/J98BMed.png" title="Public Sénat">
 <a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F234%2Fsections%3FtrkCp%3Dhome_channels%26trkCs%3Dlive%26trkOcr%3D41%26trkOsp%3D2"><img src="https://i.imgur.com/7glGgqI.png" height="80" width="80" title="Figaro Live">
-<a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050caf7aqga10jo59ekg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/IuuyI5W.png" title="BFM Business">
+<a href="https://n0ub4x.github.io/M0l0t0v.tv/TV/BFM%20Business/"><img src="https://i.imgur.com/IuuyI5W.png" title="BFM Business">
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/ScQqlr9.png" title="BFM Paris">
 <a href="https://rplayer.surge.sh/?url=https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/LYMaQ2N.png" title="BFM Lyon">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sportenfrance/sportenfrance.isml/hdready.mpd"><img src="https://i.imgur.com/HOrQuen.png" title="Sport en France">
