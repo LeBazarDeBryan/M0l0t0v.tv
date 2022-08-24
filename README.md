@@ -61,6 +61,7 @@ Chaînes
 <a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd"><img src="https://i.imgur.com/4V1l2vV.png" title="Boomerang">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd"><img src="https://i.imgur.com/Q4Wz51U.png" title="Gong">
+<a href="http://rplayer.surge.sh/?url=http://ott-cdn.ucom.am/s35/index.m3u8"><img src="https://i.imgur.com/jujiSWj.png" title="Mezzo">
 <a href="https://www.hlsplayer.org/play?url=https%3A%2F%2Flightning-traceurban-samsungau.amagi.tv%2Fplaylist.m3u8"><img src="https://i.imgur.com/el7rxCx.png" title="Trace Urban">
 <a href="https://www.hlsplayer.org/play?url=https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/smnmkcQ.png" title="Trace Sport Stars">
 <a href="https://rplayer.surge.sh/?url=https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/N6rn8J3.png" title="Fashion TV">
