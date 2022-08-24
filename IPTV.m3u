@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=MsN0_WNXvh8
 https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
 #EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="",Gong
 https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd
-#EXTINF:-1 tvg-id="Mezzo.fr" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/jujiSWj.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Divertissement",Trace Urban
