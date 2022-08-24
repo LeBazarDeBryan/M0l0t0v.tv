@@ -95,6 +95,8 @@ https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="EuroNews.com" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
 https://www.youtube.com/watch?v=MsN0_WNXvh8
+#EXTINF:-1 tvg-id="viaTelePaese.tv" tvg-logo="https://i.imgur.com/sR1Ffly.png" group-title="Étrangères",viàTéléPaese
+https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="BoomerangTV.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
 https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
 #EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="",Gong
