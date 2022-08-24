@@ -1,0 +1,24 @@
+<!-- Title + Icon -->
+<title> M0l0t0v.tv • BFM TV </title>
+<link rel="icon" href="icon.png">
+
+<!-- Page -->
+<center>
+<head>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"></script>
+  
+<!-- Video Player -->
+<body>
+  <div id="player"></div>
+  <script>
+    var player = new Clappr.Player({
+	source: "https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8",
+	parentId: "#player",
+	poster: 'poster.jpg',
+	height: 730,
+	width: 1500
+});
+  </script>
+</body>
+</head>
+</center>

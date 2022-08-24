@@ -1,0 +1,24 @@
+<!-- Title + Icon -->
+<title> M0l0t0v.tv • BFM Business </title>
+<link rel="icon" href="icon.png">
+
+<!-- Page -->
+<center>
+<head>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"></script>
+  
+<!-- Video Player -->
+<body>
+  <div id="player"></div>
+  <script>
+    var player = new Clappr.Player({
+	source: "https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050caf7aqga10jo59ekg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END",
+	parentId: "#player",
+	poster: 'poster.jpg',
+	height: 730,
+	width: 1500
+});
+  </script>
+</body>
+</head>
+</center>
