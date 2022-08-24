@@ -53,7 +53,7 @@ Chaînes
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/ScQqlr9.png" title="BFM Paris">
 <a href="https://rplayer.surge.sh/?url=https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/LYMaQ2N.png" title="BFM Lyon">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sportenfrance/sportenfrance.isml/hdready.mpd"><img src="https://i.imgur.com/HOrQuen.png" title="Sport en France">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/m24news/m24news.isml/hdready.mpd"><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
+<a href="https://rplayer.surge.sh/?url=https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8"><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
 <a href="https://rplayer.surge.sh/?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"><img src="https://i.imgur.com/AsWc1OH.png" title="TV5 Monde">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd"><img src="https://i.imgur.com/DYkt5XW.png" title="RTL9">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd"><img src="https://i.imgur.com/X46FBUI.png" title="AB1">
