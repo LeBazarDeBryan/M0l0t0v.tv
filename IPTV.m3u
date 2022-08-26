@@ -104,6 +104,8 @@ https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/jujiSWj.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/r9MfPzk.png" group-title="Divertissement",Trace Latina
+http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
 #EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Divertissement",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/smnmkcQ.png" group-title="Sport",Trace Sport Stars
