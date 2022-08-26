@@ -89,6 +89,8 @@ https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="RTL9.com" tvg-logo="https://i.imgur.com/DYkt5XW.png" group-title="Cinéma, Séries",RTL9
 https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd
+#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/eTHFBNs.png" group-title="Cinéma, Séries",Téva
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/teva/sixplayhde/dash_short_enc_teva/index.mpd
 #EXTINF:-1 tvg-id="AB1.tv" tvg-logo="https://i.imgur.com/X46FBUI.png" group-title="Cinéma, Séries",AB1
 https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd
 #EXTINF:-1 tvg-id="KTOTV.com" tvg-logo="https://i.imgur.com/zTXLfjX.png" group-title="Documentaire & Culture",KTO
