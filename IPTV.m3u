@@ -38,7 +38,7 @@ https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/h
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="Sport",L'Équipe
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="Cinéma, Séries",6ter
-https://mtv-live.cloud-02.molotov.tv/public/6ter/6ter.isml/hdready.mpd
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/dash_short_enc_6ter/index.mpd
 #EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="Documentaire & Culture",RMC Story
 https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd
 #EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="Documentaire & Culture",RMC Découverte
