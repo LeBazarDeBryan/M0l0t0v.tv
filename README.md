@@ -114,5 +114,38 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nollywoodtv/nollywoodtv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/97F6IOI.png" title="Nollywood TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/aplus/aplus.isml/dash/hdready.mpd"><img src="https://i.imgur.com/qqLhQD1.png" title="A+ International">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/traceafrica/traceafrica.isml/dash/hdready.mpd"><img src="https://i.imgur.com/CPq70Mn.png" title="Trace Africa">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nollywoodepic/nollywoodepic.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xnUk1el.png" title="Nollywood Epic">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/africable/africable.isml/dash/hdready.mpd"><img src="https://i.imgur.com/G8FOm85.png" title="Africable">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rts1/rts1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/gBCfXjf.png" title="RTS 1 Sénégale">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/2stv/2stv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/YEpkdxr.png" title="2STV">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sentv/sentv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/kBnFapg.png" title="Sen TV">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tfm/tfm.isml/dash/hdready.mpd"><img src="https://i.imgur.com/kya7IyO.png" title="TFM">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rti1/rti1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/8k0N2ZB.png" title="RTI 1">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/bone/bone.isml/dash/hdready.mpd"><img src="https://i.imgur.com/DmQsNxv.png" title="B-One">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/canal2/canal2.isml/dash/hdready.mpd"><img src="https://i.imgur.com/cKRaOvq.png" title="Canal 2 International">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/crtv/crtv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/TIePQPT.png" title="CRTV">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ortm/ortm.isml/dash/hdready.mpd"><img src="https://i.imgur.com/IBGGdch.png" title="ORTM">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cherifla/cherifla.isml/dash/hdready.mpd"><img src="https://i.imgur.com/w4bniiq.png" title="Cherifla">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/telecongo/telecongo.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xf37t6Q.png" title="Tele Congo">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtg/rtg.isml/dash/hdready.mpd"><img src="https://i.imgur.com/WwZEfWm.png" title="RTG">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tvt/tvt.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xj4gXFP.png" title="TVT">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ortb/ortb.isml/dash/hdready.mpd"><img src="https://i.imgur.com/fGxerLG.png" title="ORTB">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtb/rtb.isml/dash/hdready.mpd"><img src="https://i.imgur.com/r5AND7h.png" title="RTB">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gabontv/gabontv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/fDceWTs.png" title="Gabon TV">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/alresalah/alresalah.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xzjfG0s.png" title="Al Resalah">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/2mmonde/2mmonde.isml/dash/hdready.mpd"><img src="https://i.imgur.com/w62eo8k.png" title="2M Monde">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/baraem/baraem.isml/dash/hdready.mpd"><img src="https://i.imgur.com/RTQPYIP.png" title="Baraem">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/echorouktvhd/echorouktvhd.isml/dash/hdready.mpd"><img src="https://i.imgur.com/WVMbDUD.png" title="Echorouk TV HD">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/jeem/jeem.isml/dash/hdready.mpd"><img src="https://i.imgur.com/ITIIqeM.png" title="Jeem">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nessma/nessma.isml/dash/hdready.mpd"><img src="https://i.imgur.com/KIMVMdL.png" title="Nessma">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanaclip/rotanaclip.isml/dash/hdready.mpd"><img src="https://i.imgur.com/DVJ1D2V.png" title="Rotana Clip">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanadrama/rotanadrama.isml/dash/hdready.mpd"><img src="https://i.imgur.com/uC06RtD.png" title="Rotana Drama">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/samiratv/samiratv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/yzg4c3J.png" title="Samira TV">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8"><img src="https://i.imgur.com/fp4FWif.png" title="Gulli Bil Arabi">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanacomedy/rotanacomedy.isml/dash/hdready.mpd"><img src="https://i.imgur.com/x56m0Gz.png" title="Rotana Comedy">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanacinema/rotanacinema.isml/dash/hdready.mpd"><img src="https://i.imgur.com/MEHyfvQ.png" title="Rotana Cinema">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanaclassic/rotanaclassic.isml/dash/hdready.mpd"><img src="https://i.imgur.com/jfKnFK4.png" title="Rotana Classic">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanamusic/rotanamusic.isml/dash/hdready.mpd"><img src="https://i.imgur.com/eZAUll0.png" title="Rotana Music">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/echorouknews/echorouknews.isml/dash/hdready.mpd"><img src="https://i.imgur.com/kvANa7E.png" title="Echorouk News">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/elbilad/elbilad.isml/dash/hdready.mpd"><img src="https://i.imgur.com/INKHcll.png" title="El Bilad">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd"><img src="https://i.imgur.com/SgAtWCQ.png" title="Playboy TV Europe">
