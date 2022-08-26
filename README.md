@@ -63,8 +63,20 @@
 <a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/zTXLfjX.png" title="KTO">
 <a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href="https://rplayer.surge.sh/?url=https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8"><img src="https://i.imgur.com/sR1Ffly.png" title="viàTéléPaese">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/action/action.isml/dash/hdready.mpd"><img src="https://i.imgur.com/2hdd6qW.png" title="ACTION">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tcm/tcm.isml/dash/hdready.mpd"><img src="https://i.imgur.com/swjnqpY.png" title="TCM Cinéma">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/paramountchannel/paramountchannel.isml/dash/hdready.mpd"><img src="https://i.imgur.com/ox6gjKG.png" title="Paramount Channel">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd"><img src="https://i.imgur.com/muP0StS.png" title="Paramount Channel Décalé">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd"><img src="https://i.imgur.com/4V1l2vV.png" title="Boomerang">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd"><img src="https://i.imgur.com/Q4Wz51U.png" title="Gong">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boing/boing.isml/dash/hdready.mpd"><img src="https://i.imgur.com/VfxrJTv.png" title="Boing">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/toonami/toonami.isml/dash/hdready.mpd"><img src="https://i.imgur.com/Nqu3gFR.png" title="Toonami">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gameone/gameone.isml/dash/hdready.mpd"><img src="https://i.imgur.com/IsX3sz6.png" title="Game One">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/mggtv/mggtv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/TEYpdGu.png" title="MGGTV">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/mangas/mangas.isml/dash/hdready.mpd"><img src="https://i.imgur.com/Eovih1E.png" title="MANGAS">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/jone/jone.isml/dash/hdready.mpd"><img src="https://i.imgur.com/T07HDzX.png" title="J-One">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nickelodeonteen/nickelodeonteen.isml/dash/hdready.mpd"><img src="https://i.imgur.com/jq0A0OW.png" title="Nickelodeon Teen">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd"><img src="https://i.imgur.com/Q4Wz51U.png" title="GONG">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gongmax/gongmax.isml/dash/hdready.mpd"><img src="https://i.imgur.com/blGL0Ps.png" title="GONG Max">
 <a href="http://rplayer.surge.sh/?url=http://ott-cdn.ucom.am/s35/index.m3u8"><img src="https://i.imgur.com/jujiSWj.png" title="Mezzo">
 <a href=""><img src="https://i.imgur.com/r9MfPzk.png" title="Trace Latina">
 <a href="https://www.hlsplayer.org/play?url=https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/el7rxCx.png" title="Trace Urban">
