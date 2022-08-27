@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="",TF1
-https://mtv-live.cloud-02.molotov.tv/public/tf1/tf1.isml/hdready.mpd
+https://s13.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="",France 2
-https://mtv-live.cloud-02.molotov.tv/public/france2/france2.isml/hdready.mpd
+https://s13.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="",France 3
-https://mtv-live.cloud-02.molotov.tv/public/france3/france3.isml/hdready.mpd
+https://s13.tntendirect.com/france3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/HlKW65X.png" group-title="Information",France 5
-https://mtv-live.cloud-02.molotov.tv/public/france5/france5.isml/hdready.mpd
+https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/Baadm99.png" group-title="",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="Arte.tv" tvg-logo="https://i.imgur.com/iUgaOBk.png" group-title="Documentaire",Arte
@@ -14,13 +14,13 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://i.imgur.com/HnvLFwK.png" group-title="Cinéma, Séries",C8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/dRAPU7O.png" group-title="",W9
-https://mtv-live.cloud-02.molotov.tv/public/w9/w9.isml/hdready.mpd
+https://s13.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/E1k83NG.png" group-title="Cinéma, Séries",TMC
-https://mtv-live.cloud-02.molotov.tv/public/tmc/tmc.isml/hdready.mpd
+https://s13.tntendirect.com/tmc/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/amAmDGS.png" group-title="Cinéma, Séries",TFX
-https://mtv-live.cloud-02.molotov.tv/public/tfx/tfx.isml/hdready.mpd
+https://s13.tntendirect.com/nt1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NRJ-Play.fr" tvg-logo="https://i.imgur.com/ERsgHRi.png" group-title="Divertissement",NRJ 12
-https://live-molotov.fubo.tv/public/nrj12/nrj12.isml/hdready.mpd
+https://s13.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LCP.fr / PublicSenat.fr" tvg-logo="https://i.imgur.com/QgySpKN.png" group-title="Information",LCP / Public Sénat
 https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
@@ -34,17 +34,17 @@ https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/B9GfpDR.png" group-title="Enfants",Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/oN9xZYT.png" group-title="Cinéma, Séries",TF1 Séries Films
-https://mtv-live.cloud-02.molotov.tv/public/tf1seriesfilms/tf1seriesfilms.isml/hdready.mpd
+https://s13.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="Sport",L'Équipe
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="Cinéma, Séries",6ter
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/dash_short_enc_6ter/index.mpd
+https://s13.tntendirect.com/6ter/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="Documentaire & Culture",RMC Story
 https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd
 #EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="Documentaire & Culture",RMC Découverte
-https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/hdready.mpd
+https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NRJ-Play.fr" tvg-logo="https://i.imgur.com/g9EdDZC.png" group-title="",Chérie 25
-https://mtv-live.cloud-02.molotov.tv/public/cherie25/cherie25.isml/hdready.mpd
+https://s13.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1Info.fr" tvg-logo="https://i.imgur.com/FpltHeB.png" group-title="Information",LCI
 
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Fm4HJ6M.png" group-title="Information",franceinfo:
