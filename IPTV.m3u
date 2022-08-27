@@ -91,14 +91,82 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/eTHFBNs.png" group-title="Cinéma, Séries",Téva
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/teva/sixplayhde/dash_short_enc_teva/index.mpd
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-logo="https://i.imgur.com/iBoJA40.png" group-title="Divertissement",Comedy Central
+https://mtv-live.cloud-02.molotov.tv/public/comedycentral/comedycentral.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CrimeDistrict.tv" tvg-logo="https://i.imgur.com/W9nvQwT.png" group-title="Documentaire & Culture",Crime District
+https://mtv-live.cloud-02.molotov.tv/public/crimedistrict/crimedistrict.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="AB1.tv" tvg-logo="https://i.imgur.com/X46FBUI.png" group-title="Cinéma, Séries",AB1
 https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd
 #EXTINF:-1 tvg-id="KTOTV.com" tvg-logo="https://i.imgur.com/zTXLfjX.png" group-title="Documentaire & Culture",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="EuroNews.com" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
 https://www.youtube.com/watch?v=MsN0_WNXvh8
+#EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/27D1PrH.png" group-title="Étrangères",i24 News
+
+#EXTINF:-1 tvg-id="BSmart.fr" tvg-logo="https://i.imgur.com/2C4Jg1J.png" group-title="Information",B Smart
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bsmart
+#EXTINF:-1 tvg-id="CNN.com" tvg-logo="https://i.imgur.com/q4aawfk.png" group-title="Information",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/qHvhKoj.png" group-title="Étrangères",i24 News Anglais
+
+#EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/YZ1TaiX.png" group-title="Étrangères",i24 News Arabe
+
 #EXTINF:-1 tvg-id="viaTelePaese.tv" tvg-logo="https://i.imgur.com/sR1Ffly.png" group-title="Étrangères",viàTéléPaese
 https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-id="Cheddar.com" tvg-logo="https://i.imgur.com/FnQK5qp.png" group-title="Information",Cheddar News
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/LLjSEZF.png" group-title="Cinéma, Séries",OCS Max
+https://mtv-live.cloud-02.molotov.tv/public/ocsmax/ocsmax.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/40xFccD.png" group-title="Cinéma, Séries",OCS City
+https://mtv-live.cloud-02.molotov.tv/public/ocscity/ocscity.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/ul4hmk9.png" group-title="Cinéma, Séries",OCS Choc
+https://mtv-live.cloud-02.molotov.tv/public/ocschoc/ocschoc.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/LjL6ANo.png" group-title="Cinéma, Séries",OCS Géants
+https://mtv-live.cloud-02.molotov.tv/public/ocsgeants/ocsgeants.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/I8Q7riF.png" group-title="Cinéma, Séries",Ciné+ Premier
+https://mtv-live.cloud-02.molotov.tv/public/cinepremier/cinepremier.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/8wJpPyn.png" group-title="Cinéma, Séries",Ciné+ Frisson
+https://mtv-live.cloud-02.molotov.tv/public/cinefrisson/cinefrisson.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/lZuxkpd.png" group-title="Cinéma, Séries",Ciné+ Émotion
+https://mtv-live.cloud-02.molotov.tv/public/cineemotion/cineemotion.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/luAdFh0.png" group-title="Cinéma, Séries",Ciné+ Famiz
+https://mtv-live.cloud-02.molotov.tv/public/cinefamiz/cinefamiz.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/TNX3UeK.png" group-title="Cinéma, Séries",Ciné+ Club
+https://mtv-live.cloud-02.molotov.tv/public/cineclub/cineclub.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/wYeP8zO.png" group-title="Cinéma, Séries",Ciné+ Classic
+https://mtv-live.cloud-02.molotov.tv/public/cineclassic/cineclassic.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="ActionTV.fr" tvg-logo="https://i.imgur.com/2hdd6qW.png" group-title="Cinéma, Séries",ACTION
+https://mtv-live.cloud-02.molotov.tv/public/action/action.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/swjnqpY.png" group-title="",TCM Cinéma
+https://mtv-live.cloud-02.molotov.tv/public/tcm/tcm.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/ox6gjKG.png" group-title="",Paramount Channel
+https://mtv-live.cloud-02.molotov.tv/public/paramountchannel/paramountchannel.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/muP0StS.png" group-title="",Paramount Channel Décalé
+https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
 #EXTINF:-1 tvg-id="BoomerangTV.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
 https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
 #EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="",Gong
