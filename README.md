@@ -34,7 +34,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/hdready.mpd"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cherie25/cherie25.isml/hdready.mpd"><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
-<a href="https://rplayer.surge.sh/?url=https://lci-das-live-ssl.tf1.fr/video/_CyPp69glaiRp5ghn0Oh7w/1661449394/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
+<a href=""><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
 <a href="https://www.youtube.com/watch?v=Z-Nwo-ypKtM"><img src="https://i.imgur.com/Fm4HJ6M.png" title="franceinfo:">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango/mango.isml/hdready.mpd"><img src="https://i.imgur.com/qPC3x37.png" title="MANGO">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-cinema/mango-cinema.isml/hdready.mpd"><img src="https://i.imgur.com/jPz2OH1.png" title="MANGO Cinéma">
@@ -65,12 +65,12 @@
 <a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/zTXLfjX.png" title="KTO">
 <a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href=""><img src="https://i.imgur.com/27D1PrH.png" title="i24 News">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/bsmart/bsmart.isml/dash/hdready.mpd"><img src="https://i.imgur.com/2C4Jg1J.png" title="B Smart">
-<a href=""><img src="https://i.imgur.com/q4aawfk.png" title="CNN">
+<a href="https://www.dailymotion.com/embed/video/x7tn4fp?autoPlay=1"><img src="https://i.imgur.com/2C4Jg1J.png" title="B Smart">
+<a href="https://rplayer.surge.sh/?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"><img src="https://i.imgur.com/q4aawfk.png" title="CNN">
 <a href=""><img src="https://i.imgur.com/qHvhKoj.png" title="i24 News Anglais">
 <a href=""><img src="https://i.imgur.com/YZ1TaiX.png" title="i24 News Arabe">
 <a href="https://rplayer.surge.sh/?url=https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8"><img src="https://i.imgur.com/sR1Ffly.png" title="viàTéléPaese">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cheddar/cheddar.isml/dash/hdready.mpd"><img src="https://i.imgur.com/FnQK5qp.png" title="Cheddar News">
+<a href="https://rplayer.surge.sh/?url=https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8"><img src="https://i.imgur.com/FnQK5qp.png" title="Cheddar News">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ocsmax/ocsmax.isml/dash/hdready.mpd"><img src="https://i.imgur.com/LLjSEZF.png" title="OCS Max">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ocscity/ocscity.isml/dash/hdready.mpd"><img src="https://i.imgur.com/40xFccD.png" title="OCS City">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ocschoc/ocschoc.isml/dash/hdready.mpd"><img src="https://i.imgur.com/ul4hmk9.png" title="OCS Choc">
@@ -97,7 +97,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boing/boing.isml/dash/hdready.mpd"><img src="https://i.imgur.com/VfxrJTv.png" title="Boing">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/toonami/toonami.isml/dash/hdready.mpd"><img src="https://i.imgur.com/Nqu3gFR.png" title="Toonami">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gameone/gameone.isml/dash/hdready.mpd"><img src="https://i.imgur.com/IsX3sz6.png" title="Game One">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/mggtv/mggtv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/TEYpdGu.png" title="MGGTV">
+<a href="https://rplayer.surge.sh/?url=http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mgg_fr"><img src="https://i.imgur.com/TEYpdGu.png" title="MGGTV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gametoon/gametoon.isml/dash/hdready.mpd"><img src="https://i.imgur.com/rRQZPrE.png" title="Game Toon">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/mangas/mangas.isml/dash/hdready.mpd"><img src="https://i.imgur.com/Eovih1E.png" title="MANGAS">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/jone/jone.isml/dash/hdready.mpd"><img src="https://i.imgur.com/T07HDzX.png" title="J-One">
@@ -107,7 +107,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/animaux/animaux.isml/dash/hdready.mpd"><img src="https://i.imgur.com/dBsybwV.png" title="Animaux">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/chassepeche/chassepeche.isml/dash/hdready.mpd"><img src="https://i.imgur.com/QwWctxj.png" title="Chasse & Pèche">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/trek/trek.isml/dash/hdready.mpd"><img src="https://i.imgur.com/oxxHIrE.png" title="Trek">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/topsantetv/topsantetv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/yIwYuqb.png" title="Top Santé TV">
+<a href="https://www.dailymotion.com/embed/video/x89yjnn?autoPlay=1"><img src="https://i.imgur.com/yIwYuqb.png" title="Top Santé TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gourmandtv/gourmandtv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/JtdBLnp.png" title="Gourmand TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sciencesvie/sciencesvie.isml/dash/hdready.mpd"><img src="https://i.imgur.com/k18rba4.png" title="Sciences & Vie TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/toutelhistoire/toutelhistoire.isml/dash/hdready.mpd"><img src="https://i.imgur.com/blWZF68.png" title="Toute l'Histoire">
