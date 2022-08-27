@@ -216,5 +216,7 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fp4FWif.png" group-title="Étrangères",Gulli Bil Arabi
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 tvg-id="HTATV.com" tvg-logo="https://i.imgur.com/INKHcll.png" group-title="Étrangères",El Bilad
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayBoyTV.eu" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
 https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd
