@@ -173,7 +173,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nessma/nessma.isml/dash/hdready.mpd"><img src="https://i.imgur.com/KIMVMdL.png" title="Nessma">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanaclip/rotanaclip.isml/dash/hdready.mpd"><img src="https://i.imgur.com/DVJ1D2V.png" title="Rotana Clip">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanadrama/rotanadrama.isml/dash/hdready.mpd"><img src="https://i.imgur.com/uC06RtD.png" title="Rotana Drama">
-<a href="http://rplayer.surge.sh/?url=https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8"><img src="https://i.imgur.com/yzg4c3J.png" title="Samira TV">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/samiratv/samiratv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/yzg4c3J.png" title="Samira TV">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8"><img src="https://i.imgur.com/fp4FWif.png" title="Gulli Bil Arabi">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanacomedy/rotanacomedy.isml/dash/hdready.mpd"><img src="https://i.imgur.com/x56m0Gz.png" title="Rotana Comedy">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanacinema/rotanacinema.isml/dash/hdready.mpd"><img src="https://i.imgur.com/MEHyfvQ.png" title="Rotana Cinema">
