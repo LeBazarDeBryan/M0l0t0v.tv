@@ -46,6 +46,8 @@
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-histoire/mango-histoire.isml/hdready.mpd"><img src="https://i.imgur.com/Clpq0px.png" title="MANGO Histoire">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-kids/mango-kids.isml/hdready.mpd"><img src="https://i.imgur.com/Szg5bdV.png" title="MANGO Kids">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-novelas/mango-novelas.isml/hdready.mpd"><img src="https://i.imgur.com/6UkST81.png" title="MANGO Novelas">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tf1plus1/tf1plus1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/XChLG6e.png" title="TF1 +1">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tmcplus1/tmcplus1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/SaXYtjO.png" title="TMC +1">
 <a href="https://rplayer.surge.sh/?url=https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/3gp4D22.png" title="Wild Side TV">
 <a href="https://www.youtube.com/embed/gxG3pdKvlIs"><img src="https://i.imgur.com/TQvMBFy.png" title="France 24">
 <a href="https://rplayer.surge.sh/?url=https://news.cgtn.com/resource/live/french/cgtn-f.m3u8"><img src="https://i.imgur.com/FvxRyUO.png" title="CGTN Français">
@@ -133,6 +135,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luckyjacktv/luckyjacktv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/s9Ht6KG.png" title="Lucky Jack">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/winamax/winamax.isml/dash/hdready.mpd"><img src="https://i.imgur.com/tDRjavH.png" title="Winamax TV">
 <a href="https://rplayer.surge.sh/?url=https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/N6rn8J3.png" title="Fashion TV">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv/luxetv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/rVslXze.png" title="Luxe TV">
 <a href="http://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd"><img src="https://i.imgur.com/DeZNN72.png" title="Luxe TV 4K">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/dash/hdready.mpd"><img src="https://i.imgur.com/Q8IQGVB.png" title="Novelas">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/dorceltv/dorceltv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/E8CDnCN.png" title="Dorcel TV">
