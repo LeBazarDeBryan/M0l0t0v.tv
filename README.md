@@ -49,7 +49,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tf1plus1/tf1plus1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/XChLG6e.png" title="TF1 +1">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tmcplus1/tmcplus1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/SaXYtjO.png" title="TMC +1">
 <a href="https://rplayer.surge.sh/?url=https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/3gp4D22.png" title="Wild Side TV">
-<a href="https://www.youtube.com/embed/gxG3pdKvlIs"><img src="https://i.imgur.com/TQvMBFy.png" title="France 24">
+<a href="https://www.youtube.com/embed/gxG3pdKvlIs?autoplay=1"><img src="https://i.imgur.com/TQvMBFy.png" title="France 24">
 <a href="https://rplayer.surge.sh/?url=https://news.cgtn.com/resource/live/french/cgtn-f.m3u8"><img src="https://i.imgur.com/FvxRyUO.png" title="CGTN Français">
 <a href="https://rplayer.surge.sh/?url=https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"><img src="https://i.imgur.com/RvXlNbb.png" title="CGTN">
 <a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F159%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D40%26trkOsp%3D2"><img src="https://i.imgur.com/7I5tcaz.png" title="ina">
@@ -68,7 +68,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/crimedistrict/crimedistrict.isml/dash/hdready.mpd"><img src="https://i.imgur.com/W9nvQwT.png" title="Crime District">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd"><img src="https://i.imgur.com/X46FBUI.png" title="AB1">
 <a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/zTXLfjX.png" title="KTO">
-<a href="https://www.youtube.com/embed/MsN0_WNXvh8"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
+<a href="https://www.youtube.com/embed/MsN0_WNXvh8?autoplay=1"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href=""><img src="https://i.imgur.com/27D1PrH.png" title="i24 News">
 <a href="https://www.dailymotion.com/embed/video/x7tn4fp?autoPlay=1"><img src="https://i.imgur.com/2C4Jg1J.png" title="B Smart">
 <a href="https://rplayer.surge.sh/?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"><img src="https://i.imgur.com/q4aawfk.png" title="CNN">
