@@ -6,6 +6,7 @@
 |------------------|
 | [0. Acceuil](https://github.com/N0ub4x/M0l0t0v.tv#readme)
 | [1. Chaînes](https://github.com/N0ub4x/M0l0t0v.tv#cha%C3%AEnes) |
+| [2. License](https://github.com/N0ub4x/M0l0t0v.tv#license) |
 
 #  
 
@@ -176,3 +177,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/echorouknews/echorouknews.isml/dash/hdready.mpd"><img src="https://i.imgur.com/kvANa7E.png" title="Echorouk News">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/elbilad/elbilad.isml/dash/hdready.mpd"><img src="https://i.imgur.com/INKHcll.png" title="El Bilad">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd"><img src="https://i.imgur.com/SgAtWCQ.png" title="Playboy TV Europe">
+
+
+# License
+[MIT License](https://github.com/N0ub4x/M0l0t0v.tv/blob/main/LICENSE#L1)
