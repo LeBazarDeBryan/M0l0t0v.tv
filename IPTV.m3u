@@ -143,37 +143,67 @@ https://mtv-live.cloud-02.molotov.tv/public/tcm/tcm.isml/dash/hdready.mpd
 https://mtv-live.cloud-02.molotov.tv/public/paramountchannel/paramountchannel.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/muP0StS.png" group-title="",Paramount Channel Décalé
 https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="DuckTV.tv" tvg-logo="https://i.imgur.com/W0sgr2j.png" group-title="Enfants",Duck TV
+https://mtv-live.cloud-02.molotov.tv/public/ducktv/ducktv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="Pitchoun-Medias.fr" tvg-logo="https://i.imgur.com/AkQAxb3.png" group-title="Enfants",TV Pitchoun
+https://mtv-live.cloud-02.molotov.tv/public/pitchountv/pitchountv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/tTqQFqM.png" group-title="Enfants",Nickelodeon Junior
+https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/VG0Crzj.png" group-title="Enfants",Nickelodeon
+https://mtv-live.cloud-02.molotov.tv/public/canalj/canalj.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/ETRwMnX.png" group-title="Enfants",Nickelodeon +1
+https://mtv-live.cloud-02.molotov.tv/public/nickelodeon/nickelodeon.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="BoomerangTV.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
 https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
-#EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="",Gong
+#EXTINF:-1 tvg-id="BoingTV.fr" tvg-logo="https://i.imgur.com/VfxrJTv.png" group-title="Enfants",Boing
+https://mtv-live.cloud-02.molotov.tv/public/boing/boing.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/Nqu3gFR.png" group-title="Divertissement",Toonami
+https://mtv-live.cloud-02.molotov.tv/public/toonami/toonami.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="GameOne.net" tvg-logo="https://i.imgur.com/IsX3sz6.png" group-title="Divertissement",Game One
+https://mtv-live.cloud-02.molotov.tv/public/gameone/gameone.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TEYpdGu.png" group-title="Divertissement",MGGTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mgg_fr
+#EXTINF:-1 tvg-id="GameToon.com" tvg-logo="https://i.imgur.com/rRQZPrE.png" group-title="Divertissement",Game Toon
+https://mtv-live.cloud-02.molotov.tv/public/gametoon/gametoon.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="MANGAS.fr" tvg-logo="https://i.imgur.com/Eovih1E.png" group-title="Enfants",MANGAS
+https://mtv-live.cloud-02.molotov.tv/public/mangas/mangas.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="J-One.com" tvg-logo="https://i.imgur.com/T07HDzX.png" group-title="Documentaire & Culture",J-One
+https://mtv-live.cloud-02.molotov.tv/public/jone/jone.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/jq0A0OW.png" group-title="Enfants",Nickelodeon Teen
+https://mtv-live.cloud-02.molotov.tv/public/nickelodeonteen/nickelodeonteen.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="Divertissement",GONG
 https://mtv-live.cloud-02.molotov.tv/public/gong/gong.isml/hdready.mpd
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/jujiSWj.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+#EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/blGL0Ps.png" group-title="Divertissement",GONG Max
+https://mtv-live.cloud-02.molotov.tv/public/gongmax/gongmax.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="AnimauxTV.fr" tvg-logo="https://i.imgur.com/dBsybwV.png" group-title="Documentaire & Culture",Animaux
+https://mtv-live.cloud-02.molotov.tv/public/animaux/animaux.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="ChasseEtPecheTV.fr" tvg-logo="https://i.imgur.com/QwWctxj.png" group-title="Documentaire & Culture",Chasse & Pèche
+https://mtv-live.cloud-02.molotov.tv/public/chassepeche/chassepeche.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="TrekHD.tv" tvg-logo="https://i.imgur.com/oxxHIrE.png" group-title="Documentaire & Culture",Trek
+https://mtv-live.cloud-02.molotov.tv/public/trek/trek.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="TopSante.com" tvg-logo="https://i.imgur.com/yIwYuqb.png" group-title="Information",Top Santé TV
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TopSante
+#EXTINF:-1 tvg-id="GourmandTV.fr" tvg-logo="https://i.imgur.com/JtdBLnp.png" group-title="Divertissement",Gourmand TV
+https://mtv-live.cloud-02.molotov.tv/public/gourmandtv/gourmandtv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="Science-et-Vie.tv" tvg-logo="https://i.imgur.com/k18rba4.png" group-title="Enfants",Sciences & Vie TV
+https://mtv-live.cloud-02.molotov.tv/public/sciencesvie/sciencesvie.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="TouteLHistoire.com" tvg-logo="https://i.imgur.com/blWZF68.png" group-title="Documentaire & Culture",Toute l'Histoire
+https://mtv-live.cloud-02.molotov.tv/public/toutelhistoire/toutelhistoire.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/ibIPZb1.png" group-title="Divertissement",MTV
+https://mtv-live.cloud-02.molotov.tv/public/mtv/mtv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/2jxEJwy.png" group-title="Divertissement",MTV Hits
+https://mtv-live.cloud-02.molotov.tv/public/mtvhits/mtvhits.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="NRJ.fr" tvg-logo="https://i.imgur.com/dBtAfR0.png" group-title="Divertissement",NRJ Hits
+https://mtv-live.cloud-02.molotov.tv/public/nrjhits/nrjhits.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/G1lEnb3.png" group-title="Divertissement",M6 Music
+https://mtv-live.cloud-02.molotov.tv/public/m6music/m6music.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="BETChannel.fr" tvg-logo="https://i.imgur.com/jXjYg13.png" group-title="Divertissement",BET
+
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/jujiSWj.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148" group-title="Documentaire & Culture",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148 
 http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/rBuw40i.png" group-title="Documentaire & Culture",Mezzo Live HD
+https://mtv-live.cloud-02.molotov.tv/public/mezzolive/mezzolive.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/r9MfPzk.png" group-title="Divertissement",Trace Latina
 http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
 #EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Divertissement",Trace Urban
