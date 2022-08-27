@@ -180,7 +180,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanaclassic/rotanaclassic.isml/dash/hdready.mpd"><img src="https://i.imgur.com/jfKnFK4.png" title="Rotana Classic">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanamusic/rotanamusic.isml/dash/hdready.mpd"><img src="https://i.imgur.com/eZAUll0.png" title="Rotana Music">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/echorouknews/echorouknews.isml/dash/hdready.mpd"><img src="https://i.imgur.com/kvANa7E.png" title="Echorouk News">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/elbilad/elbilad.isml/dash/hdready.mpd"><img src="https://i.imgur.com/INKHcll.png" title="El Bilad">
+<a href="https://rplayer.surge.sh/?url=https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8"><img src="https://i.imgur.com/INKHcll.png" title="El Bilad">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd"><img src="https://i.imgur.com/SgAtWCQ.png" title="Playboy TV Europe">
 
 #  
