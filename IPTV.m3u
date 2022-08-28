@@ -144,7 +144,7 @@ https://mtv-live.cloud-02.molotov.tv/public/paramountchannel/paramountchannel.is
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/muP0StS.png" group-title="",Paramount Channel Décalé
 https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="DuckTV.tv" tvg-logo="https://i.imgur.com/W0sgr2j.png" group-title="Enfants",Duck TV
-https://mtv-live.cloud-02.molotov.tv/public/ducktv/ducktv.isml/dash/hdready.mpd
+https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pitchoun-Medias.fr" tvg-logo="https://i.imgur.com/AkQAxb3.png" group-title="Enfants",TV Pitchoun
 https://mtv-live.cloud-02.molotov.tv/public/pitchountv/pitchountv.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="TIJI.fr" tvg-logo="https://i.imgur.com/o0ypqoI.png" group-title="Enfants",TIJI
