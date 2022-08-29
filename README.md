@@ -15,7 +15,7 @@
 
 # Chaînes
 
-<a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/tf1/live/playlist.m3u8"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
+<a href="https://rplayer.surge.sh/?url=https://tf1-das-live-ssl.tf1.fr/video/33SL5vh0nDNsP9BtJAgcpQ/1661780507/out/v1/192e289f861a43739091437725f9c2b1/index.mpd"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
 <a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/france2/live/playlist.m3u8"><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
 <a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/france3/live/playlist.m3u8"><img src="https://i.imgur.com/ZgTTt3L.png" title="France 3">
 <a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/france5/live/playlist.m3u8"><img src="https://i.imgur.com/HlKW65X.png" title="France 5">
@@ -23,8 +23,8 @@
 <a href="https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"><img src="https://i.imgur.com/iUgaOBk.png" title="Arte">
 <a href="https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
 <a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/w9/live/playlist.m3u8"><img src="https://i.imgur.com/dRAPU7O.png" title="W9">
-<a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/tmc/live/playlist.m3u8"><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
-<a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/nt1/live/playlist.m3u8"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
+<a href="https://rplayer.surge.sh/?url=https://tmc-das-live-ssl.tf1.fr/video/wmWDt_SY9dhZhjGTzEmw2g/1661780629/out/v1/39e5bad5774f42fd8941edff13ff5072/index.mpd"><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
+<a href="https://rplayer.surge.sh/?url=https://nt1-das-live-ssl.tf1.fr/video/zns_HGGKtrS-jzsW9_ExPw/1661780678/out/v1/233038e4d07f4416a0eb8598f241d9ea/index.mpd"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
 <a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/nrj12/live/playlist.m3u8"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/hdready.mpd"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
@@ -32,7 +32,7 @@
 <a href="https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
 <a href="https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
-<a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/hd1/live/playlist.m3u8"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
+<a href="https://rplayer.surge.sh/?url=https://hd1-das-live-ssl.tf1.fr/video/1MFL-UsKRFJlvZGlZ9vDAA/1661780734/out/v1/d025b4f9239b4ce1aa53d1a7692cba0a/index.mpd"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
 <a href="https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
 <a href="https://rplayer.surge.sh/?url=https://s13.tntendirect.com/6ter/live/playlist.m3u8"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
