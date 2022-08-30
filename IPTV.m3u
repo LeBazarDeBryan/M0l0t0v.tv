@@ -102,7 +102,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="EuroNews.com" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
 https://www.youtube.com/watch?v=MsN0_WNXvh8
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/27D1PrH.png" group-title="Étrangères",i24 News
-
+https://d3kl0e87lk5c6c.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/5ba5b02f-a203-4fbd-b64a-ae28cf803c29/2.m3u8
 #EXTINF:-1 tvg-id="BSmart.fr" tvg-logo="https://i.imgur.com/2C4Jg1J.png" group-title="Information",B Smart
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bsmart
 #EXTINF:-1 tvg-id="CNN.com" tvg-logo="https://i.imgur.com/q4aawfk.png" group-title="Information",CNN
