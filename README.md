@@ -64,7 +64,7 @@
 <a href="https://rplayer.surge.sh/?url=https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8"><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
 <a href="https://rplayer.surge.sh/?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"><img src="https://i.imgur.com/AsWc1OH.png" title="TV5 Monde">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd"><img src="https://i.imgur.com/DYkt5XW.png" title="RTL9">
-<a href=""><img src="https://i.imgur.com/2n2DqUG.png" title="Paris Première">
+<a href=""><img src="https://i.imgur.com/RAGnZdk.png" title="Paris Première">
 <a href="https://rplayer.surge.sh/?url=https://origin2-6play.live.6cloud.fr/pool_u81ytesz/teva/sixplayhde/dash_short_enc_teva/index.mpd"><img src="https://i.imgur.com/eTHFBNs.png" title="Téva">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/comedycentral/comedycentral.isml/dash/hdready.mpd"><img src="https://i.imgur.com/iBoJA40.png" title="Comedy Central">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/crimedistrict/crimedistrict.isml/dash/hdready.mpd"><img src="https://i.imgur.com/W9nvQwT.png" title="Crime District">
