@@ -15,14 +15,14 @@
 
 # Chaînes
 
-<a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
+<a href="https://rplayer.surge.sh/?url=https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/france2/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/ZgTTt3L.png" title="France 3">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/france5/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/HlKW65X.png" title="France 5">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"><img src="https://i.imgur.com/Baadm99.png" title="M6">
 <a href="https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"><img src="https://i.imgur.com/iUgaOBk.png" title="Arte">
 <a href="https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
-<a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/dRAPU7O.png" title="W9">
+<a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/dRAPU7O.png" titleF="W9">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/tmc/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/tfx/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/nrj12/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
@@ -38,7 +38,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/rmcdecouverte/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/cherie25/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
-<a href="https://www.tf1info.fr/direct/"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
+<a href="http://rplayer.surge.sh/?url=https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
 <a href="https://www.youtube.com/watch?v=Z-Nwo-ypKtM"><img src="https://i.imgur.com/Fm4HJ6M.png" title="franceinfo:">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango/mango.isml/hdready.mpd"><img src="https://i.imgur.com/qPC3x37.png" title="MANGO">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-cinema/mango-cinema.isml/hdready.mpd"><img src="https://i.imgur.com/jPz2OH1.png" title="MANGO Cinéma">
@@ -64,6 +64,7 @@
 <a href="https://rplayer.surge.sh/?url=https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8"><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
 <a href="https://rplayer.surge.sh/?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"><img src="https://i.imgur.com/AsWc1OH.png" title="TV5 Monde">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd"><img src="https://i.imgur.com/DYkt5XW.png" title="RTL9">
+<a href=""><img src="https://i.imgur.com/2n2DqUG.png" title="Paris Première">
 <a href="https://rplayer.surge.sh/?url=https://origin2-6play.live.6cloud.fr/pool_u81ytesz/teva/sixplayhde/dash_short_enc_teva/index.mpd"><img src="https://i.imgur.com/eTHFBNs.png" title="Téva">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/comedycentral/comedycentral.isml/dash/hdready.mpd"><img src="https://i.imgur.com/iBoJA40.png" title="Comedy Central">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/crimedistrict/crimedistrict.isml/dash/hdready.mpd"><img src="https://i.imgur.com/W9nvQwT.png" title="Crime District">
@@ -93,7 +94,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd"><img src="https://i.imgur.com/muP0StS.png" title="Paramount Channel Décalé">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/drivein/drivein.isml/dash/hdready.mpd"><img src="https://i.imgur.com/KnnveOB.png" title="Drive-in Movie Channel">
 <a href="https://rplayer.surge.sh/?url=https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/W0sgr2j.png" title="Duck TV">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/pitchountv/pitchountv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/AkQAxb3.png" title="TV Pitchoun">
+<a href="http://rplayer.surge.sh/?url=https://live.tvradio-pitchoun.fr/hls/live.m3u8"><img src="https://i.imgur.com/AkQAxb3.png" title="TV Pitchoun">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8"><img src="https://i.imgur.com/o0ypqoI.png" title="TIJI">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/dash/hdready.mpd"><img src="https://i.imgur.com/tTqQFqM.png" title="Nickelodeon Junior">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/canalj/canalj.isml/dash/hdready.mpd"><img src="https://i.imgur.com/FYyaFMr.png" title="Canal J">
