@@ -24,7 +24,7 @@
 <a href="https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/dRAPU7O.png" titleF="W9">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/tmc/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
-<a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/tfx/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
+<a href="https://rplayer.surge.sh/?url=https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
 <a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/nrj12/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDExOjUwOjU5IEFNJmhhc2hfdmFsdWU9QWZXQVNnbEY4SURnczIrZ01WUjREQT09JnZhbGlkbWludXRlcz0zMA=="><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/france4/france4.isml/hdready.mpd"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
