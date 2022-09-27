@@ -1,6 +1,6 @@
 #  
 
-<p align="center"><img src="https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/.png" title="Bienvenue"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Logo.png" title="Bienvenue"></p>
 
 #  
 
