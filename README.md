@@ -60,7 +60,7 @@
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050caf7aqga10jo59ekg/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/IuuyI5W.png" title="BFM Business">
 <a href="https://rplayer.surge.sh/?url=https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/ScQqlr9.png" title="BFM Paris">
 <a href="https://rplayer.surge.sh/?url=https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END"><img src="https://i.imgur.com/LYMaQ2N.png" title="BFM Lyon">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sportenfrance/sportenfrance.isml/hdready.mpd"><img src="https://i.imgur.com/HOrQuen.png" title="Sport en France">
+<a href="http://rplayer.surge.sh/?url=https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8"><img src="https://i.imgur.com/HOrQuen.png" title="Sport en France">
 <a href="https://rplayer.surge.sh/?url=https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8"><img src="https://i.imgur.com/Pq7p5U2.png" title="M24">
 <a href="https://rplayer.surge.sh/?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"><img src="https://i.imgur.com/AsWc1OH.png" title="TV5 Monde">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd"><img src="https://i.imgur.com/DYkt5XW.png" title="RTL9">
