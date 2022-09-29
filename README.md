@@ -128,7 +128,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tracelatina/tracelatina.isml/dash/hdready.mpd"><img src="https://i.imgur.com/r9MfPzk.png" title="Trace Latina">
 <a href="https://www.hlsplayer.org/play?url=https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/el7rxCx.png" title="Trace Urban">
 <a href=""><img src="https://i.imgur.com/IixhuUK.png" title="Trace Caribbean">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/equidia/equidia.isml/dash/hdready.mpd"><img src="https://i.imgur.com/m6DoKhm.png" title="Equidia">
+<a href="https://www.equidia.fr/direct"><img src="https://i.imgur.com/m6DoKhm.png" title="Equidia">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/golfchannel/golfchannel.isml/dash/hdready.mpd"><img src="https://i.imgur.com/zt4XbI7.png" title="Golf Channel">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/autoplus/autoplus.isml/dash/hdready.mpd"><img src="https://i.imgur.com/OyRTZAn.png" title="AutoPlus">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/automoto/automoto.isml/dash/hdready.mpd"><img src="https://i.imgur.com/WXUIs0Y.png" title="Automoto">
