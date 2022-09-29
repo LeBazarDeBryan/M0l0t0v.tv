@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="",France 2
-https://s13.tntendirect.com/france2/live/playlist.m3u8
+https://mtv-live.cloud-02.molotov.tv/public/france2/france2.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="",France 3
-https://s13.tntendirect.com/france3/live/playlist.m3u8
+https://mtv-live.cloud-02.molotov.tv/public/france3/france3.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/HlKW65X.png" group-title="Information",France 5
-https://s13.tntendirect.com/france5/live/playlist.m3u8
+https://mtv-live.cloud-02.molotov.tv/public/france5/france5.isml/hdready.mpd
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/Baadm99.png" group-title="",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="Arte.tv" tvg-logo="https://i.imgur.com/iUgaOBk.png" group-title="Documentaire",Arte
@@ -14,13 +14,13 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://i.imgur.com/HnvLFwK.png" group-title="Cinéma, Séries",C8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/dRAPU7O.png" group-title="",W9
-https://s13.tntendirect.com/w9/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/E1k83NG.png" group-title="Cinéma, Séries",TMC
-https://s13.tntendirect.com/tmc/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/amAmDGS.png" group-title="Cinéma, Séries",TFX
-https://s13.tntendirect.com/nt1/live/playlist.m3u8
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
 #EXTINF:-1 tvg-id="NRJ-Play.fr" tvg-logo="https://i.imgur.com/ERsgHRi.png" group-title="Divertissement",NRJ 12
-https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LCP.fr / PublicSenat.fr" tvg-logo="https://i.imgur.com/QgySpKN.png" group-title="Information",LCP / Public Sénat
 https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
@@ -34,19 +34,19 @@ https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/B9GfpDR.png" group-title="Enfants",Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/oN9xZYT.png" group-title="Cinéma, Séries",TF1 Séries Films
-https://s13.tntendirect.com/hd1/live/playlist.m3u8
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="Sport",L'Équipe
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="Cinéma, Séries",6ter
-https://s13.tntendirect.com/6ter/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="Documentaire & Culture",RMC Story
 https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd
 #EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="Documentaire & Culture",RMC Découverte
-https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+https://mtv-live.cloud-02.molotov.tv/public/rmcdecouverte/rmcdecouverte.isml/hdready.mpd
 #EXTINF:-1 tvg-id="NRJ-Play.fr" tvg-logo="https://i.imgur.com/g9EdDZC.png" group-title="",Chérie 25
-https://s13.tntendirect.com/cherie25/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TF1Info.fr" tvg-logo="https://i.imgur.com/FpltHeB.png" group-title="Information",LCI
-https://lci-das-live-ssl.tf1.fr/video/nNKUshHBdfyZfsj0jazKNg/1661780259/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd
+
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Fm4HJ6M.png" group-title="Information",franceinfo:
 https://www.youtube.com/watch?v=Z-Nwo-ypKtM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qPC3x37.png" group-title="Cinéma, Séries",MANGO
@@ -216,6 +216,80 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Luxe.tv" tvg-logo="https://i.imgur.com/DeZNN72.png" group-title="Divertissement",Luxe TV 4K
 https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q8IQGVB.png" group-title="",Novelas
+https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E8CDnCN.png" group-title="Adulte",Dorcel TV
+https://mtv-live.cloud-02.molotov.tv/public/dorceltv/dorceltv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C8G60lI.png" group-title="Adulte",Dorcel XXX
+https://mtv-live.cloud-02.molotov.tv/public/dorcelxxx/dorcelxxx.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Wk3Uwh.png" group-title="Adulte",Vixen TV
+https://mtv-live.cloud-02.molotov.tv/public/vixen/vixen.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajvo2ni.png" group-title="",C Direct
+https://mtv-live.cloud-02.molotov.tv/public/cdirect/cdirect.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DImKMHb.png" group-title="",NCI
+https://mtv-live.cloud-02.molotov.tv/public/nci/nci.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BovQbXB.png" group-title="",Sunu Yeuf
+https://mtv-live.cloud-02.molotov.tv/public/sunuyeuf/sunuyeuf.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/97F6IOI.png" group-title="",Nollywood TV
+https://mtv-live.cloud-02.molotov.tv/public/nollywoodtv/nollywoodtv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qqLhQD1.png" group-title="",A+ International
+https://mtv-live.cloud-02.molotov.tv/public/aplus/aplus.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CPq70Mn.png" group-title="Musique",Trace Africa
+https://mtv-live.cloud-02.molotov.tv/public/traceafrica/traceafrica.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xnUk1el.png" group-title="",Nollywood Epic
+https://mtv-live.cloud-02.molotov.tv/public/nollywoodepic/nollywoodepic.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G8FOm85.png" group-title="",Africable
+https://mtv-live.cloud-02.molotov.tv/public/africable/africable.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gBCfXjf.png" group-title="",RTS 1 Sénégale
+https://mtv-live.cloud-02.molotov.tv/public/rts1/rts1.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YEpkdxr.png" group-title="",2STV
+https://mtv-live.cloud-02.molotov.tv/public/2stv/2stv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kBnFapg.png" group-title="",Sen TV
+https://mtv-live.cloud-02.molotov.tv/public/sentv/sentv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kya7IyO.png" group-title="",TFM
+https://mtv-live.cloud-02.molotov.tv/public/tfm/tfm.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8k0N2ZB.png" group-title="",RTI 1
+https://mtv-live.cloud-02.molotov.tv/public/rti1/rti1.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmQsNxv.png" group-title="",B-One
+https://mtv-live.cloud-02.molotov.tv/public/bone/bone.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cKRaOvq.png" group-title="",Canal 2 International
+https://mtv-live.cloud-02.molotov.tv/public/canal2/canal2.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TIePQPT.png" group-title="",CRTV
+https://mtv-live.cloud-02.molotov.tv/public/crtv/crtv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IBGGdch.png" group-title="",ORTM
+https://mtv-live.cloud-02.molotov.tv/public/ortm/ortm.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w4bniiq.png" group-title="",Cherifla
+https://mtv-live.cloud-02.molotov.tv/public/cherifla/cherifla.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xf37t6Q.png" group-title="",Tele Congo
+https://mtv-live.cloud-02.molotov.tv/public/telecongo/telecongo.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WwZEfWm.png" group-title="",RTG
+https://mtv-live.cloud-02.molotov.tv/public/rtg/rtg.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xj4gXFP.png" group-title="",TVT
+https://mtv-live.cloud-02.molotov.tv/public/tvt/tvt.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fGxerLG.png" group-title="",ORTB
+https://mtv-live.cloud-02.molotov.tv/public/ortb/ortb.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r5AND7h.png" group-title="",RTB
+https://mtv-live.cloud-02.molotov.tv/public/rtb/rtb.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDceWTs.png" group-title="",Gabon TV
+https://mtv-live.cloud-02.molotov.tv/public/gabontv/gabontv.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xzjfG0s.png" group-title="",Al Resalah
+https://mtv-live.cloud-02.molotov.tv/public/alresalah/alresalah.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w62eo8k.png" group-title="",2M Monde
+https://mtv-live.cloud-02.molotov.tv/public/2mmonde/2mmonde.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RTQPYIP.png" group-title="",Baraem
+https://mtv-live.cloud-02.molotov.tv/public/baraem/baraem.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WVMbDUD.png" group-title="",Echorouk TV HD
+https://mtv-live.cloud-02.molotov.tv/public/echorouktvhd/echorouktvhd.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITIIqeM.png" group-title="",Jeem
+https://mtv-live.cloud-02.molotov.tv/public/jeem/jeem.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KIMVMdL.png" group-title="",Nessma
+https://mtv-live.cloud-02.molotov.tv/public/nessma/nessma.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DVJ1D2V.png" group-title="",Rotana Clip
+https://mtv-live.cloud-02.molotov.tv/public/rotanaclip/rotanaclip.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uC06RtD.png" group-title="",Rotana Drama
+https://mtv-live.cloud-02.molotov.tv/public/rotanadrama/rotanadrama.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yzg4c3J.png" group-title="",Samira TV
+https://mtv-live.cloud-02.molotov.tv/public/samiratv/samiratv.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fp4FWif.png" group-title="Étrangères",Gulli Bil Arabi
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="HTATV.com" tvg-logo="https://i.imgur.com/INKHcll.png" group-title="Étrangères",El Bilad
