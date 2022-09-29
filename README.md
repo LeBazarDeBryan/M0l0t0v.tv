@@ -32,7 +32,7 @@
 <a href="https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
 <a href="https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
-<a href="https://rplayer.surge.sh/?url=https://s15.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=131591&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIyIDg6NTI6MzEgQU0maGFzaF92YWx1ZT1hK1lrSnZ0bHBEbEtzNm1mME9XRFlBPT0mdmFsaWRtaW51dGVzPTMw"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
+<a href="https://rplayer.surge.sh/?url=https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
 <a href="https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
 <a href="https://rplayer.surge.sh/?url=https://s12.tntendirect.com/6ter/live/chunks.m3u8?nimblesessionid=891507&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIyIDg6NTM6NDEgQU0maGFzaF92YWx1ZT0xeGt4RGZmY1RpbGxDQkFzc0FXYTl3PT0mdmFsaWRtaW51dGVzPTMw"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
