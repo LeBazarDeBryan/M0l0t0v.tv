@@ -158,7 +158,7 @@
 <a href="https://www.rti.ci/live/rti1"><img src="https://i.imgur.com/8k0N2ZB.png" title="RTI 1">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/bone/bone.isml/dash/hdready.mpd"><img src="https://i.imgur.com/DmQsNxv.png" title="B-One">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/canal2/canal2.isml/dash/hdready.mpd"><img src="https://i.imgur.com/cKRaOvq.png" title="Canal 2 International">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/crtv/crtv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/TIePQPT.png" title="CRTV">
+<a href="https://www.dailymotion.com/embed/video/x7o9p4a?autoPlay=1"><img src="https://i.imgur.com/TIePQPT.png" title="CRTV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ortm/ortm.isml/dash/hdready.mpd"><img src="https://i.imgur.com/IBGGdch.png" title="ORTM">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cherifla/cherifla.isml/dash/hdready.mpd"><img src="https://i.imgur.com/w4bniiq.png" title="Cherifla">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/telecongo/telecongo.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xf37t6Q.png" title="Tele Congo">
