@@ -151,7 +151,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/traceafrica/traceafrica.isml/dash/hdready.mpd"><img src="https://i.imgur.com/CPq70Mn.png" title="Trace Africa">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nollywoodepic/nollywoodepic.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xnUk1el.png" title="Nollywood Epic">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/africable/africable.isml/dash/hdready.mpd"><img src="https://i.imgur.com/G8FOm85.png" title="Africable">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rts1/rts1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/gBCfXjf.png" title="RTS 1 Sénégale">
+<a href="https://www.rts.sn/tv/rts-1"><img src="https://i.imgur.com/gBCfXjf.png" title="RTS 1 Sénégale">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/2stv/2stv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/YEpkdxr.png" title="2STV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sentv/sentv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/kBnFapg.png" title="Sen TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tfm/tfm.isml/dash/hdready.mpd"><img src="https://i.imgur.com/kya7IyO.png" title="TFM">
