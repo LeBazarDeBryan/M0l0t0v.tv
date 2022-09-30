@@ -165,8 +165,8 @@
 <a href="https://rplayer.surge.sh/?url=https://helga.iptv2022.com/RTG/tracks-v1a1/mono.m3u8"><img src="https://i.imgur.com/WwZEfWm.png" title="RTG">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tvt/tvt.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xj4gXFP.png" title="TVT">
 <a href="https://webcast.streamakaci.com/ortb/1/"><img src="https://i.imgur.com/fGxerLG.png" title="ORTB">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtb/rtb.isml/dash/hdready.mpd"><img src="https://i.imgur.com/r5AND7h.png" title="RTB">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/gabontv/gabontv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/fDceWTs.png" title="Gabon TV">
+<a href="https://player.infomaniak.com/?channel=6477&player=4000"><img src="https://i.imgur.com/r5AND7h.png" title="RTB">
+<a href="https://gabontelevisions.ga/live"><img src="https://i.imgur.com/fDceWTs.png" title="Gabon TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/alresalah/alresalah.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xzjfG0s.png" title="Al Resalah">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/2mmonde/2mmonde.isml/dash/hdready.mpd"><img src="https://i.imgur.com/w62eo8k.png" title="2M Monde">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/baraem/baraem.isml/dash/hdready.mpd"><img src="https://i.imgur.com/RTQPYIP.png" title="Baraem">
