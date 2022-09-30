@@ -162,7 +162,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ortm/ortm.isml/dash/hdready.mpd"><img src="https://i.imgur.com/IBGGdch.png" title="ORTM">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cherifla/cherifla.isml/dash/hdready.mpd"><img src="https://i.imgur.com/w4bniiq.png" title="Cherifla">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/telecongo/telecongo.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xf37t6Q.png" title="Tele Congo">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtg/rtg.isml/dash/hdready.mpd"><img src="https://i.imgur.com/WwZEfWm.png" title="RTG">
+<a href="https://rplayer.surge.sh/?url=https://helga.iptv2022.com/RTG/tracks-v1a1/mono.m3u8"><img src="https://i.imgur.com/WwZEfWm.png" title="RTG">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tvt/tvt.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xj4gXFP.png" title="TVT">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ortb/ortb.isml/dash/hdready.mpd"><img src="https://i.imgur.com/fGxerLG.png" title="ORTB">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rtb/rtb.isml/dash/hdready.mpd"><img src="https://i.imgur.com/r5AND7h.png" title="RTB">
