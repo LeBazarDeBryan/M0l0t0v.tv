@@ -167,13 +167,13 @@
 <a href="https://webcast.streamakaci.com/ortb/1/"><img src="https://i.imgur.com/fGxerLG.png" title="ORTB">
 <a href="https://player.infomaniak.com/?channel=6477&player=4000"><img src="https://i.imgur.com/r5AND7h.png" title="RTB">
 <a href="https://gabontelevisions.ga/live"><img src="https://i.imgur.com/fDceWTs.png" title="Gabon TV">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/alresalah/alresalah.isml/dash/hdready.mpd"><img src="https://i.imgur.com/xzjfG0s.png" title="Al Resalah">
+<a href="https://rotana.net/live-elressalah/"><img src="https://i.imgur.com/xzjfG0s.png" title="Al Resalah">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/2mmonde/2mmonde.isml/dash/hdready.mpd"><img src="https://i.imgur.com/w62eo8k.png" title="2M Monde">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/baraem/baraem.isml/dash/hdready.mpd"><img src="https://i.imgur.com/RTQPYIP.png" title="Baraem">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/echorouktvhd/echorouktvhd.isml/dash/hdready.mpd"><img src="https://i.imgur.com/WVMbDUD.png" title="Echorouk TV HD">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/jeem/jeem.isml/dash/hdready.mpd"><img src="https://i.imgur.com/ITIIqeM.png" title="Jeem">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nessma/nessma.isml/dash/hdready.mpd"><img src="https://i.imgur.com/KIMVMdL.png" title="Nessma">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanaclip/rotanaclip.isml/dash/hdready.mpd"><img src="https://i.imgur.com/DVJ1D2V.png" title="Rotana Clip">
+<a href="https://rotana.net/live-clip/"><img src="https://i.imgur.com/DVJ1D2V.png" title="Rotana Clip">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rotanadrama/rotanadrama.isml/dash/hdready.mpd"><img src="https://i.imgur.com/uC06RtD.png" title="Rotana Drama">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/samiratv/samiratv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/yzg4c3J.png" title="Samira TV">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8"><img src="https://i.imgur.com/fp4FWif.png" title="Gulli Bil Arabi">
