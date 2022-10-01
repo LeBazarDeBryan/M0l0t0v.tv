@@ -100,7 +100,7 @@ https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd
 #EXTINF:-1 tvg-id="KTOTV.com" tvg-logo="https://i.imgur.com/zTXLfjX.png" group-title="Documentaire & Culture",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="EuroNews.com" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
-https://www.youtube.com/watch?v=MsN0_WNXvh8
+https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/27D1PrH.png" group-title="Étrangères",i24 News
 https://d3kl0e87lk5c6c.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/5ba5b02f-a203-4fbd-b64a-ae28cf803c29/2.m3u8
 #EXTINF:-1 tvg-id="BSmart.fr" tvg-logo="https://i.imgur.com/2C4Jg1J.png" group-title="Information",B Smart
@@ -192,13 +192,13 @@ https://mtv-live.cloud-02.molotov.tv/public/sciencesvie/sciencesvie.isml/dash/hd
 #EXTINF:-1 tvg-id="TouteLHistoire.com" tvg-logo="https://i.imgur.com/blWZF68.png" group-title="Documentaire & Culture",Toute l'Histoire
 https://mtv-live.cloud-02.molotov.tv/public/toutelhistoire/toutelhistoire.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/ibIPZb1.png" group-title="Divertissement",MTV
-https://mtv-live.cloud-02.molotov.tv/public/mtv/mtv.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/2jxEJwy.png" group-title="Divertissement",MTV Hits
-https://mtv-live.cloud-02.molotov.tv/public/mtvhits/mtvhits.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="NRJ.fr" tvg-logo="https://i.imgur.com/dBtAfR0.png" group-title="Divertissement",NRJ Hits
+http://190.2.155.162:8080/mtvfrance/mpegts
+#EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/2jxEJwy.png" group-title="Musique",MTV Hits
+http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:-1 tvg-id="NRJ.fr" tvg-logo="https://i.imgur.com/dBtAfR0.png" group-title="Musique",NRJ Hits
 https://mtv-live.cloud-02.molotov.tv/public/nrjhits/nrjhits.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/G1lEnb3.png" group-title="Divertissement",M6 Music
-https://mtv-live.cloud-02.molotov.tv/public/m6music/m6music.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/G1lEnb3.png" group-title="Musique",M6 Music
+http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 tvg-id="BETChannel.fr" tvg-logo="https://i.imgur.com/jXjYg13.png" group-title="Divertissement",BET
 
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/jujiSWj.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148" group-title="Documentaire & Culture",Mezzo
