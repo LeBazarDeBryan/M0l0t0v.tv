@@ -106,7 +106,7 @@ https://d3kl0e87lk5c6c.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 tvg-id="BSmart.fr" tvg-logo="https://i.imgur.com/2C4Jg1J.png" group-title="Information",B Smart
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bsmart
 #EXTINF:-1 tvg-id="CNN.com" tvg-logo="https://i.imgur.com/q4aawfk.png" group-title="Information",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/qHvhKoj.png" group-title="Étrangères",i24 News Anglais
 
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/YZ1TaiX.png" group-title="Étrangères",i24 News Arabe
