@@ -50,7 +50,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tf1plus1/tf1plus1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/XChLG6e.png" title="TF1 +1">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/tmcplus1/tmcplus1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/SaXYtjO.png" title="TMC +1">
 <a href="https://rplayer.surge.sh/?url=https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/3gp4D22.png" title="Wild Side TV">
-<a href="https://www.youtube.com/embed/gxG3pdKvlIs?autoplay=1"><img src="https://i.imgur.com/TQvMBFy.png" title="France 24">
+<a href="https://www.youtube-nocookie.com/embed/gxG3pdKvlIs?controls=0"><img src="https://i.imgur.com/TQvMBFy.png" title="France 24">
 <a href="https://rplayer.surge.sh/?url=https://news.cgtn.com/resource/live/french/cgtn-f.m3u8"><img src="https://i.imgur.com/FvxRyUO.png" title="CGTN Français">
 <a href="https://rplayer.surge.sh/?url=https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"><img src="https://i.imgur.com/RvXlNbb.png" title="CGTN">
 <a href="https://app.molotov.tv/channels/https%3A%2F%2Ffapi__DOT__molotov__DOT__tv%2Fv2%2Fchannels%2F159%2Fsections%3FtrkCp%3Dremote_channels_v1%26trkCs%3Dfree_channels%26trkOcr%3D40%26trkOsp%3D2"><img src="https://i.imgur.com/7I5tcaz.png" title="ina">
@@ -70,7 +70,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/crimedistrict/crimedistrict.isml/dash/hdready.mpd"><img src="https://i.imgur.com/W9nvQwT.png" title="Crime District">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd"><img src="https://i.imgur.com/X46FBUI.png" title="AB1">
 <a href="https://rplayer.surge.sh/?url=https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"><img src="https://i.imgur.com/zTXLfjX.png" title="KTO">
-<a href="https://www.youtube-nocookie.com/embed/NiRIbKwAejk"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
+<a href="https://www.youtube-nocookie.com/embed/NiRIbKwAejk?controls=0"><img src="https://i.imgur.com/IHwzyvB.png" title="euronews">
 <a href="https://rplayer.surge.sh/?url=https://d3kl0e87lk5c6c.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/5ba5b02f-a203-4fbd-b64a-ae28cf803c29/2.m3u8"><img src="https://i.imgur.com/27D1PrH.png" title="i24 News">
 <a href="https://www.dailymotion.com/embed/video/x7tn4fp?autoPlay=1"><img src="https://i.imgur.com/2C4Jg1J.png" title="B Smart">
 <a href="https://rplayer.surge.sh/?url=https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/q4aawfk.png" title="CNN">
@@ -191,6 +191,7 @@
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/DqsBwgI.png" height="80" width="80" title="RTL">
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/HthGFLm.jpg" height="80" width="80" title="RTL2">
 <a href="https://www.youtube-nocookie.com/embed/araK9j8mN9Y?controls=0"><img src="https://i.imgur.com/s6WxVKx.jpg" height="80" width="80" title="Tomorrowland One World Radio">
+<a href="https://www.youtube-nocookie.com/embed/CIVFy3NKGMU?controls=0"><img src="https://i.imgur.com/9E6QUnx.jpg" height="80" width="80" title="Tomorrowland One World Radio Daybreak Sessions">
 
 
 #
