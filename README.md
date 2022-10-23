@@ -2,7 +2,9 @@
 
 <p align="center"><a href="https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Logo.gif"><img src="https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Bienvenue.png" title="Bienvenue"></p></a>
 
-#  
+<h1 align="center"><b>M0l0t0v.tv</b></h2>
+<a href="https://mit-license.org/" alt="License : MIT License"><img src="https://img.shields.io/badge/License-MIT-%23ff554d.svg"></a>
+
 
 |     Séctions     |
 |------------------|
@@ -11,9 +13,8 @@
 | [2. IPTV](https://github.com/N0ub4x/M0l0t0v.tv#iptv) |
 | [3. License](https://github.com/N0ub4x/M0l0t0v.tv#license) |
 
-#  
 
-<h1 align="center"><b>Chaînes</b></h2>
+<h2 align="center"><b>Chaînes</b></h2>
 
 <a href="https://rplayer.surge.sh/?url=https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
 <a href=""><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
@@ -185,7 +186,7 @@
 <a href="https://rplayer.surge.sh/?url=https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8"><img src="https://i.imgur.com/INKHcll.png" title="El Bilad">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd"><img src="https://i.imgur.com/SgAtWCQ.png" title="Playboy TV Europe">
 
-<h1 align="center"><b>Radio</b></h2>
+<h2 align="center"><b>Radio</b></h2>
 
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/o3KKaX6.png" height="80" width="80" title="FUN Radio">
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/DqsBwgI.png" height="80" width="80" title="RTL">
@@ -194,16 +195,13 @@
 <a href="https://www.youtube-nocookie.com/embed/CIVFy3NKGMU?controls=0"><img src="https://i.imgur.com/9E6QUnx.jpg" height="80" width="80" title="Tomorrowland One World Radio Daybreak Sessions">
 
 
-#
-
-<h1 align="center"><b>IPTV</b></h2>
+<h2 align="center"><b>IPTV</b></h2>
 
 [Chaînes IPTV](https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/IPTV.m3u)
 
 (Clic Droit > Copier l'adresse du lien)
 
-#  
 
-<h1 align="center"><b>License</b></h2>
+<h2 align="center"><b>License</b></h2>
 
 [MIT License](https://github.com/N0ub4x/M0l0t0v.tv/blob/main/LICENSE#L1)
