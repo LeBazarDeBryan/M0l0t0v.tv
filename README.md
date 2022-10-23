@@ -205,6 +205,5 @@
 #  
 
 <h1 align="center"><b>License</b></h2>
-[MIT License](https://github.com/N0ub4x/M0l0t0v.tv/blob/main/LICENSE#L1)
 
-#  
+[MIT License](https://github.com/N0ub4x/M0l0t0v.tv/blob/main/LICENSE#L1)
