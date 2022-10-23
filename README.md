@@ -185,6 +185,13 @@
 <a href="https://rplayer.surge.sh/?url=https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8"><img src="https://i.imgur.com/INKHcll.png" title="El Bilad">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd"><img src="https://i.imgur.com/SgAtWCQ.png" title="Playboy TV Europe">
 
+# Radio
+
+<a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/o3KKaX6.png" height="80" width="80" title="FUN Radio">
+<a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/DqsBwgI.png" height="80" width="80" title="RTL">
+<a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/HthGFLm.jpg" height="80" width="80" title="RTL2">
+
+
 
 #
 
