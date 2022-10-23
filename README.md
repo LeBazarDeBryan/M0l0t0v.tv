@@ -7,7 +7,7 @@
 <a href="https://mit-license.org/" alt="License : MIT License"><img src="https://img.shields.io/badge/License-MIT-%23ff554d.svg"></a>
 
 #
-
+  
 |     Séctions     |
 |------------------|
 | [0. Acceuil](https://github.com/N0ub4x/M0l0t0v.tv#readme) |
