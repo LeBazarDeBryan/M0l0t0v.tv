@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/o3KKaX6.png" group-title="Musique",Fun Radio
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8
+#EXTINF:-1 tvg-id="RTL.fr" tvg-logo="https://i.imgur.com/DqsBwgI.png" group-title="Musique",RTL
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8
+#EXTINF:-1 tvg-id="RTL2.fr" tvg-logo="https://i.imgur.com/HthGFLm.jpg" group-title="Musique",RTL2
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s6WxVKx.jpg" group-title="Musique",Tomorrowland One World Radio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=araK9j8mN9Y
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9E6QUnx.jpg" group-title="Musique",Tomorrowland One World Radio Daybreak Sessions
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CIVFy3NKGMU
