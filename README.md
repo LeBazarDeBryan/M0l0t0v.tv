@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>M0l0t0v.tv</b></h2>
 <p align="center">
-<a href="https://mit-license.org/" alt="License : MIT License"><img src="https://img.shields.io/badge/License-MIT-%23ff554d.svg"></a>
+<a href="https://github.com/N0ub4x/M0l0t0v.tv/blob/main/LICENSE#L1" alt="License : MIT License"><img src="https://img.shields.io/badge/License-MIT-%23ff554d.svg"></a>
 
 #
   
