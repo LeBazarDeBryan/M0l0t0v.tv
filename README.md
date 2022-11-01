@@ -189,6 +189,9 @@
 <h2 align="center"><b>Radio</b></h2>
 
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/o3KKaX6.png" height="80" width="80" title="FUN Radio">
+<a href="https://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8"><img src="https://i.imgur.com/NYR2R3h.png" height="80" width="80" title="FUN Radio Anthology">
+<a href="https://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/fun/202/index.m3u8"><img src="https://i.imgur.com/D2C6SIl.png" height="80" width="80" title="FUN Radio Electro">
+<a href="https://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funlatino/130/index.m3u8"><img src="https://i.imgur.com/ktivWut.png" height="80" width="80" title="FUN Radio Latino">
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/DqsBwgI.png" height="80" width="80" title="RTL">
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/HthGFLm.jpg" height="80" width="80" title="RTL2">
 <a href="https://www.youtube-nocookie.com/embed/araK9j8mN9Y?controls=0"><img src="https://i.imgur.com/s6WxVKx.jpg" height="80" width="80" title="Tomorrowland One World Radio">
