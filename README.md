@@ -197,6 +197,14 @@
 <a href="http://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/HthGFLm.jpg" height="80" width="80" title="RTL2">
 <a href="https://www.youtube-nocookie.com/embed/araK9j8mN9Y?controls=0"><img src="https://i.imgur.com/s6WxVKx.jpg" height="80" width="80" title="Tomorrowland One World Radio">
 <a href="https://www.youtube-nocookie.com/embed/CIVFy3NKGMU?controls=0"><img src="https://i.imgur.com/9E6QUnx.jpg" height="80" width="80" title="Tomorrowland One World Radio Daybreak Sessions">
+<a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/virgin-live/playlist.m3u8"><img src="https://i.imgur.com/Dd9BSfo.png" height="80" width="80" title="Virgin Radio Officiel">
+<a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/vr-wr8.mp3"><img src="https://i.imgur.com/Ahkp4mY.png" height="80" width="80" title="Virgin Radio Nouvelle Scène">
+<a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/vr-wr4.mp3"><img src="https://i.imgur.com/MZRrKdM.jpg" height="80" width="80" title="Virgin Radio Hits">
+<a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/vr-wr2.mp3"><img src="https://i.imgur.com/j06uY5j.jpg" height="80" width="80" title="Virgin Radio Classics">
+<a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/vr-wr5.mp3"><img src="https://i.imgur.com/qJEPsrD.png" height="80" width="80" title="Virgin Radio Rock">
+<a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/vr-wr1.mp3"><img src="https://i.imgur.com/gdaewpF.png" height="80" width="80" title="Virgin Radio New">
+<a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/vr-wr3.mp3"><img src="https://i.imgur.com/17Kfmsr.png" height="80" width="80" title="Virgin Radio Electroshock">
+
 
 
 <h2 align="center"><b>IPTV</b></h2>
