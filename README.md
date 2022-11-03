@@ -12,7 +12,6 @@
 | [1. Chaînes](https://github.com/N0ub4x/M0l0t0v.tv#cha%C3%AEnes) |
 | [2. Radio](https://github.com/N0ub4x/M0l0t0v.tv#Radio) |
 | [3. IPTV](https://github.com/N0ub4x/M0l0t0v.tv#iptv) |
-| [4. License](https://github.com/N0ub4x/M0l0t0v.tv#license) |
 
 
 <h2 align="center"><b>Chaînes</b></h2>
@@ -214,8 +213,3 @@
 [Radio](https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Radio.m3u)
 
 (Clic Droit > Copier l'adresse du lien)
-
-
-<h2 align="center"><b>License</b></h2>
-
-[MIT License](https://github.com/N0ub4x/M0l0t0v.tv/blob/main/LICENSE#L1)
