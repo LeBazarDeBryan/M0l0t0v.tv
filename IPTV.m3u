@@ -19,29 +19,29 @@ https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/amAmDGS.png" group-title="Cinéma, Séries",TFX
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
-#EXTINF:-1 tvg-id="NRJ-Play.fr" tvg-logo="https://i.imgur.com/ERsgHRi.png" group-title="Divertissement",NRJ 12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://i.imgur.com/ERsgHRi.png" group-title="Divertissement",NRJ 12
 http://www.callofliberty.fr/stream/nrj12/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/QgySpKN.png" group-title="Information",LCP / Public Sénat
 https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd
-#EXTINF:-1 tvg-id="France.tv" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
 http://www.callofliberty.fr/stream/france.4/master.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/0A1Kfyd.png" group-title="Information",BFM TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.bfmtv.com/en-direct/
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/XqQErhH.png" group-title="TNT",CNEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/fa1H0oA.png" group-title="Divertissement",CSTAR
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://i.imgur.com/fa1H0oA.png" group-title="Divertissement",CSTAR
 https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/B9GfpDR.png" group-title="Enfants",Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/oN9xZYT.png" group-title="Cinéma, Séries",TF1 Séries Films
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="Sport",L'Équipe
+#EXTINF:-1 tvg-id="Equipe21.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="Sport",L'Équipe
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="Cinéma, Séries",6ter
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/hls_short_enc_6ter/NA/vpnjbv4/index.m3u8
-#EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="Documentaire & Culture",RMC Story
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="Documentaire & Culture",RMC Story
 https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd
-#EXTINF:-1 tvg-id="RMCBFMPlay.com" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="Documentaire & Culture",RMC Découverte
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="Documentaire & Culture",RMC Découverte
 http://www.callofliberty.fr/stream/rmcdecouverte/master.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://i.imgur.com/g9EdDZC.png" group-title="TNT",Chérie 25
 http://www.callofliberty.fr/stream/cherie25/master.m3u8
@@ -67,9 +67,9 @@ https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-novelas/mango-novelas.i
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/TQvMBFy.png" group-title="Information",France 24
 https://www.youtube.com/c/FRANCE24/live
-#EXTINF:-1 tvg-id="CGTN.com" tvg-logo="https://i.imgur.com/FvxRyUO.png" group-title="Étrangères",CGTN Français
+#EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-logo="https://i.imgur.com/FvxRyUO.png" group-title="Étrangères",CGTN Français
 https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN.com" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="Étrangères",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="Étrangères",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/hP7Vrct.png" group-title="Information",LCP
 https://www.dailymotion.com/video/xji3qy
@@ -81,29 +81,29 @@ https://vlt3-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050c
 https://vlt3-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cb7jev0i8t6gap1d0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/LYMaQ2N.png" group-title="Information",BFM Lyon
 https://cbv1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=050cca94o0pg2vjmosvg/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="SportEnFrance.com" tvg-logo="https://i.imgur.com/HOrQuen.png" group-title="Sport",Sport en France
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/HOrQuen.png" group-title="Sport",Sport en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/Pq7p5U2.png" group-title="Étrangères",M24
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Pq7p5U2.png" group-title="Étrangères",M24
 https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/AsWc1OH.png" group-title="Information",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="RTL9.com" tvg-logo="https://i.imgur.com/DYkt5XW.png" group-title="Cinéma, Séries",RTL9
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://i.imgur.com/DYkt5XW.png" group-title="Cinéma, Séries",RTL9
 https://mtv-live.cloud-02.molotov.tv/public/rtl9/rtl9.isml/hdready.mpd
-#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/RAGnZdk.png" group-title="Cinéma, Séries",Paris Première
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/RAGnZdk.png" group-title="Cinéma, Séries",Paris Première
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/pp/sixplayhde/hls_short_enc_pp/NA/vpnjbv4/index.m3u8
-#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/eTHFBNs.png" group-title="Cinéma, Séries",Téva
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://i.imgur.com/eTHFBNs.png" group-title="Cinéma, Séries",Téva
 https://origin2-6play.live.6cloud.fr/pool_u81ytesz/teva/sixplayhde/hls_short_enc_teva/NA/vpnjbv4/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-logo="https://i.imgur.com/iBoJA40.png" group-title="Divertissement",Comedy Central
 https://mtv-live.cloud-02.molotov.tv/public/comedycentral/comedycentral.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CrimeDistrict.tv" tvg-logo="https://i.imgur.com/W9nvQwT.png" group-title="Documentaire & Culture",Crime District
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-logo="https://i.imgur.com/W9nvQwT.png" group-title="Documentaire & Culture",Crime District
 https://mtv-live.cloud-02.molotov.tv/public/crimedistrict/crimedistrict.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="AB1.tv" tvg-logo="https://i.imgur.com/X46FBUI.png" group-title="Cinéma, Séries",AB1
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://i.imgur.com/X46FBUI.png" group-title="Cinéma, Séries",AB1
 https://mtv-live.cloud-02.molotov.tv/public/ab1/ab1.isml/hdready.mpd
-#EXTINF:-1 tvg-id="KTOTV.com" tvg-logo="https://i.imgur.com/zTXLfjX.png" group-title="Documentaire & Culture",KTO
+#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://i.imgur.com/zTXLfjX.png" group-title="Documentaire & Culture",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
 https://euronews.alteox.app/hls/fr_stream.m3u8
-#EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/27D1PrH.png" group-title="Étrangères",i24 News
+#EXTINF:-1 tvg-id="i24News.fr" tvg-logo="https://i.imgur.com/27D1PrH.png" group-title="Étrangères",i24 News
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2C4Jg1J.png" group-title="Information",B Smart
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bsmart
@@ -117,39 +117,39 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/FnQK5qp.png" group-title="Information",Cheddar News
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/LLjSEZF.png" group-title="Cinéma, Séries",OCS Max
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-logo="https://i.imgur.com/LLjSEZF.png" group-title="Cinéma, Séries",OCS Max
 https://mtv-live.cloud-02.molotov.tv/public/ocsmax/ocsmax.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/40xFccD.png" group-title="Cinéma, Séries",OCS City
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-logo="https://i.imgur.com/40xFccD.png" group-title="Cinéma, Séries",OCS City
 https://mtv-live.cloud-02.molotov.tv/public/ocscity/ocscity.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/ul4hmk9.png" group-title="Cinéma, Séries",OCS Choc
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-logo="https://i.imgur.com/ul4hmk9.png" group-title="Cinéma, Séries",OCS Choc
 https://mtv-live.cloud-02.molotov.tv/public/ocschoc/ocschoc.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="OCS.fr" tvg-logo="https://i.imgur.com/LjL6ANo.png" group-title="Cinéma, Séries",OCS Géants
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-logo="https://i.imgur.com/LjL6ANo.png" group-title="Cinéma, Séries",OCS Géants
 https://mtv-live.cloud-02.molotov.tv/public/ocsgeants/ocsgeants.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/I8Q7riF.png" group-title="Cinéma, Séries",Ciné+ Premier
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-logo="https://i.imgur.com/I8Q7riF.png" group-title="Cinéma, Séries",Ciné+ Premier
 https://mtv-live.cloud-02.molotov.tv/public/cinepremier/cinepremier.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/8wJpPyn.png" group-title="Cinéma, Séries",Ciné+ Frisson
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-logo="https://i.imgur.com/8wJpPyn.png" group-title="Cinéma, Séries",Ciné+ Frisson
 https://mtv-live.cloud-02.molotov.tv/public/cinefrisson/cinefrisson.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/lZuxkpd.png" group-title="Cinéma, Séries",Ciné+ Émotion
+#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-logo="https://i.imgur.com/lZuxkpd.png" group-title="Cinéma, Séries",Ciné+ Émotion
 https://mtv-live.cloud-02.molotov.tv/public/cineemotion/cineemotion.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/luAdFh0.png" group-title="Cinéma, Séries",Ciné+ Famiz
+#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-logo="https://i.imgur.com/luAdFh0.png" group-title="Cinéma, Séries",Ciné+ Famiz
 https://mtv-live.cloud-02.molotov.tv/public/cinefamiz/cinefamiz.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/TNX3UeK.png" group-title="Cinéma, Séries",Ciné+ Club
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-logo="https://i.imgur.com/TNX3UeK.png" group-title="Cinéma, Séries",Ciné+ Club
 https://mtv-live.cloud-02.molotov.tv/public/cineclub/cineclub.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/wYeP8zO.png" group-title="Cinéma, Séries",Ciné+ Classic
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-logo="https://i.imgur.com/wYeP8zO.png" group-title="Cinéma, Séries",Ciné+ Classic
 https://mtv-live.cloud-02.molotov.tv/public/cineclassic/cineclassic.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="ActionTV.fr" tvg-logo="https://i.imgur.com/2hdd6qW.png" group-title="Cinéma, Séries",ACTION
+#EXTINF:-1 tvg-id="Action.fr" tvg-logo="https://i.imgur.com/2hdd6qW.png" group-title="Cinéma, Séries",ACTION
 https://mtv-live.cloud-02.molotov.tv/public/action/action.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/swjnqpY.png" group-title="Cinéma, Séries",TCM Cinéma
+#EXTINF:-1 tvg-id="TCM.fr" tvg-logo="https://i.imgur.com/swjnqpY.png" group-title="Cinéma, Séries",TCM Cinéma
 https://mtv-live.cloud-02.molotov.tv/public/tcm/tcm.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/ox6gjKG.png" group-title="Cinéma, Séries",Paramount Channel
 https://mtv-live.cloud-02.molotov.tv/public/paramountchannel/paramountchannel.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/muP0StS.png" group-title="Cinéma, Séries",Paramount Channel Décalé
 https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="DuckTV.tv" tvg-logo="https://i.imgur.com/W0sgr2j.png" group-title="Enfants",Duck TV
+#EXTINF:-1 tvg-id="DuckTV.day" tvg-logo="https://i.imgur.com/W0sgr2j.png" group-title="Enfants",Duck TV
 https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pitchoun-Medias.fr" tvg-logo="https://i.imgur.com/AkQAxb3.png" group-title="Enfants",TV Pitchoun
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/AkQAxb3.png" group-title="Enfants",TV Pitchoun
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
-#EXTINF:-1 tvg-id="TIJI.fr" tvg-logo="https://i.imgur.com/o0ypqoI.png" group-title="Enfants",TIJI
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/o0ypqoI.png" group-title="Enfants",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/tTqQFqM.png" group-title="Enfants",Nickelodeon Junior
 https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/dash/hdready.mpd
@@ -157,41 +157,41 @@ https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.
 https://mtv-live.cloud-02.molotov.tv/public/canalj/canalj.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/ETRwMnX.png" group-title="Enfants",Nickelodeon +1
 https://mtv-live.cloud-02.molotov.tv/public/nickelodeon/nickelodeon.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="BoomerangTV.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
 https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
-#EXTINF:-1 tvg-id="BoingTV.fr" tvg-logo="https://i.imgur.com/VfxrJTv.png" group-title="Enfants",Boing
+#EXTINF:-1 tvg-id="Boing.fr" tvg-logo="https://i.imgur.com/VfxrJTv.png" group-title="Enfants",Boing
 https://mtv-live.cloud-02.molotov.tv/public/boing/boing.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="CanalPlus.com" tvg-logo="https://i.imgur.com/Nqu3gFR.png" group-title="Divertissement",Toonami
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-logo="https://i.imgur.com/Nqu3gFR.png" group-title="Divertissement",Toonami
 https://mtv-live.cloud-02.molotov.tv/public/toonami/toonami.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="GameOne.net" tvg-logo="https://i.imgur.com/IsX3sz6.png" group-title="Divertissement",Game One
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://i.imgur.com/IsX3sz6.png" group-title="Divertissement",Game One
 https://mtv-live.cloud-02.molotov.tv/public/gameone/gameone.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="ES1.tv" tvg-logo="https://i.imgur.com/TEYpdGu.png" group-title="Divertissement",MGGTV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/TEYpdGu.png" group-title="Divertissement",MGGTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mgg_fr
-#EXTINF:-1 tvg-id="GameToon.com" tvg-logo="https://i.imgur.com/rRQZPrE.png" group-title="Divertissement",Game Toon
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/rRQZPrE.png" group-title="Divertissement",Game Toon
 https://mtv-live.cloud-02.molotov.tv/public/gametoon/gametoon.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="MANGAS.fr" tvg-logo="https://i.imgur.com/Eovih1E.png" group-title="Enfants",MANGAS
 https://mtv-live.cloud-02.molotov.tv/public/mangas/mangas.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="J-One.com" tvg-logo="https://i.imgur.com/T07HDzX.png" group-title="Documentaire & Culture",J-One
+#EXTINF:-1 tvg-id="JOne.fr" tvg-logo="https://i.imgur.com/T07HDzX.png" group-title="Documentaire & Culture",J-One
 https://mtv-live.cloud-02.molotov.tv/public/jone/jone.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/jq0A0OW.png" group-title="Enfants",Nickelodeon Teen
 https://mtv-live.cloud-02.molotov.tv/public/nickelodeonteen/nickelodeonteen.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="Divertissement",GONG
+#EXTINF:-1 tvg-id="Gong.fr" tvg-logo="https://i.imgur.com/Q4Wz51U.png" group-title="Divertissement",GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/cb54341f6570608e84cb3b66cef341a8f92713dc067a8b6b7fd908c83095691bdae2b5d1f94abb3a089e198f351768025e31d618df2955da8c28fe032978427dcbceb77d889a125de3baaa1b10904288f4763f35e10f6154ebab7c2e973cbb7a006199630c7307fd718d604478f3f54fc92069de87fc59de8ddf6ebd673ea1e20fe0adbe18078f7e8489aa99061a67d4f537aafe25ccc28505ca53f335b506beaa20275a21a0b49764836fc0351a151075908e33f4a338e08dca3969ce3240d27d24eb240837df16ae673ace28cfc045f2813384e500947238ab05d77f85228378907ecd906fadaca1d04c011aa8cb4e6501b2eaae9e895549dd6492ca88af1306fa9c75294dab35884110e600988fcd2cd05d1f1e8e1be3af/80/1280x720_2657600/index.m3u8
-#EXTINF:-1 tvg-id="GongNetworks.com" tvg-logo="https://i.imgur.com/blGL0Ps.png" group-title="Divertissement",GONG Max
+#EXTINF:-1 tvg-id="GongMax.fr" tvg-logo="https://i.imgur.com/blGL0Ps.png" group-title="Divertissement",GONG Max
 https://mtv-live.cloud-02.molotov.tv/public/gongmax/gongmax.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="AnimauxTV.fr" tvg-logo="https://i.imgur.com/dBsybwV.png" group-title="Documentaire & Culture",Animaux
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-logo="https://i.imgur.com/dBsybwV.png" group-title="Documentaire & Culture",Animaux
 https://mtv-live.cloud-02.molotov.tv/public/animaux/animaux.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="ChasseEtPecheTV.fr" tvg-logo="https://i.imgur.com/QwWctxj.png" group-title="Documentaire & Culture",Chasse & Pèche
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-logo="https://i.imgur.com/QwWctxj.png" group-title="Documentaire & Culture",Chasse & Pèche
 https://mtv-live.cloud-02.molotov.tv/public/chassepeche/chassepeche.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="TrekHD.tv" tvg-logo="https://i.imgur.com/oxxHIrE.png" group-title="Documentaire & Culture",Trek
+#EXTINF:-1 tvg-id="Trek.fr" tvg-logo="https://i.imgur.com/oxxHIrE.png" group-title="Documentaire & Culture",Trek
 https://mtv-live.cloud-02.molotov.tv/public/trek/trek.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/yIwYuqb.png" group-title="Information",Top Santé TV
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TopSante
-#EXTINF:-1 tvg-id="GourmandTV.fr" tvg-logo="https://i.imgur.com/JtdBLnp.png" group-title="Divertissement",Gourmand TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/JtdBLnp.png" group-title="Divertissement",Gourmand TV
 https://mtv-live.cloud-02.molotov.tv/public/gourmandtv/gourmandtv.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Science-et-Vie.tv" tvg-logo="https://i.imgur.com/k18rba4.png" group-title="Enfants",Sciences & Vie TV
+#EXTINF:-1 tvg-id="Encyclopedia.fr" tvg-logo="https://i.imgur.com/k18rba4.png" group-title="Enfants",Sciences & Vie TV
 https://mtv-live.cloud-02.molotov.tv/public/sciencesvie/sciencesvie.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="TouteLHistoire.com" tvg-logo="https://i.imgur.com/blWZF68.png" group-title="Documentaire & Culture",Toute l'Histoire
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-logo="https://i.imgur.com/blWZF68.png" group-title="Documentaire & Culture",Toute l'Histoire
 https://mtv-live.cloud-02.molotov.tv/public/toutelhistoire/toutelhistoire.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/ibIPZb1.png" group-title="Divertissement",MTV
 http://190.2.155.162:8080/mtvfrance/mpegts
@@ -208,25 +208,25 @@ http://190.2.155.162:8080/m6music/mpegts
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/rBuw40i.png" group-title="Documentaire & Culture",Mezzo Live HD
 https://mtv-live.cloud-02.molotov.tv/public/mezzolive/mezzolive.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/r9MfPzk.png" group-title="Divertissement",Trace Latina
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.imgur.com/r9MfPzk.png" group-title="Divertissement",Trace Latina
 https://amg01131-tracetv-tracelatinach-samsungch-q77mm.amagi.tv/playlist/amg01131-tracetv-tracelatinach-samsungch/cb54341f6570608e84cb3b66cef341a8f92713dc067a8b6b7fd908c83095691bdae2b5d1f943ec6f0898498b301768025e31d618df2955dad72cfc07297a157c9998b173de9f125dbabaaa1b10904288f4763f35e10f6154ebab7c2e973cbb7a006199630c7307fd718d604478f3f54fc92069de87fc59de8ddf6ebd673ea1e20fe0adbe18078f7e8489aa99061a67d4f537aafe25ccc28505ca53f335b506beaa20275a21a0b49764836fc0351a151075908e33f4a338e08dca3969ce3240d27d24eb240837df16ae673ace28cfc045f2813384e500947238ab05d77f85228378907ecd906fadaca1d04c011aa8cb4e6501b2eaae9e895549dd6492ca88af1306fa9c75294daa3c8c72ea7994bcf3074c506d6bd28e842603f4/140/1920x1080_4716800/index.m3u8
-#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Divertissement",Trace Urban
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Divertissement",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/IixhuUK.png" group-title="Musique",Trace Caribbean
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IixhuUK.png" group-title="Musique",Trace Caribbean
 
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://i.imgur.com/m6DoKhm.png" group-title="Sport",Equidia
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-logo="https://i.imgur.com/m6DoKhm.png" group-title="Sport",Equidia
 https://equidia-live2-b31-cdn.hexaglobe.net/b9306eab38d59e350b7e072ee6670717/63650e7b/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://i.imgur.com/zt4XbI7.png" group-title="Sport",Golf Channel
+#EXTINF:-1 tvg-id="Golf.fr" tvg-logo="https://i.imgur.com/zt4XbI7.png" group-title="Sport",Golf Channel
 https://mtv-live.cloud-02.molotov.tv/public/golfchannel/golfchannel.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="TV.AutoPlus.fr" tvg-logo="https://i.imgur.com/OyRTZAn.png" group-title="Sport",AutoPlus
 
-#EXTINF:-1 tvg-id="AutoMoto-LaChaine.fr" tvg-logo="https://i.imgur.com/WXUIs0Y.png" group-title="Sport",AutoMoto
+#EXTINF:-1 tvg-id="AutoMoto-LaChaine.fr" tvg-logo="https://i.imgur.com/WXUIs0Y.png" group-title="Equipe21.fr",AutoMoto
 
-#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/smnmkcQ.png" group-title="Sport",Trace Sport Stars
+#EXTINF:-1 tvg-id="TraceSport.uk" tvg-logo="https://i.imgur.com/smnmkcQ.png" group-title="Sport",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV.com" tvg-logo="https://i.imgur.com/N6rn8J3.png" group-title="Documentaire & Culture",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV.nws" tvg-logo="https://i.imgur.com/N6rn8J3.png" group-title="Documentaire & Culture",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Luxe.tv" tvg-logo="https://i.imgur.com/DeZNN72.png" group-title="Divertissement",Luxe TV 4K
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/DeZNN72.png" group-title="Divertissement",Luxe TV 4K
 https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd
 #EXTINF:-1 tvg-id="Novelas.tv" tvg-logo="https://i.imgur.com/Q8IQGVB.png" group-title="Étrangères",Novelas TV
 https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/dash/hdready.mpd
