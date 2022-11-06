@@ -197,9 +197,9 @@ https://mtv-live.cloud-02.molotov.tv/public/toutelhistoire/toutelhistoire.isml/d
 http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/2jxEJwy.png" group-title="Musique",MTV Hits
 http://190.2.155.162:8080/mtvhit/mpegts
-#EXTINF:-1 tvg-id="NRJ.fr" tvg-logo="https://i.imgur.com/dBtAfR0.png" group-title="Musique",NRJ Hits
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://i.imgur.com/dBtAfR0.png" group-title="Musique",NRJ Hits
 https://mtv-live.cloud-02.molotov.tv/public/nrjhits/nrjhits.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="6play.fr" tvg-logo="https://i.imgur.com/G1lEnb3.png" group-title="Musique",M6 Music
+#EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-logo="https://i.imgur.com/G1lEnb3.png" group-title="Musique",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 tvg-id="BETChannel.fr" tvg-logo="https://i.imgur.com/jXjYg13.png" group-title="Divertissement",BET
 
@@ -230,11 +230,11 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd
 #EXTINF:-1 tvg-id="NovelasTV.fr" tvg-logo="https://i.imgur.com/Q8IQGVB.png" group-title="Étrangères",Novelas TV
 https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="DorcelTV.com" tvg-logo="https://i.imgur.com/E8CDnCN.png" group-title="Adulte",Dorcel TV
+#EXTINF:-1 tvg-id="Dorcel.ero" tvg-logo="https://i.imgur.com/E8CDnCN.png" group-title="Adulte",Dorcel TV
 https://mtv-live.cloud-02.molotov.tv/public/dorceltv/dorceltv.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="DorcelTV.com" tvg-logo="https://i.imgur.com/C8G60lI.png" group-title="Adulte",Dorcel XXX
+#EXTINF:-1 tvg-id="Dorcel.ero" tvg-logo="https://i.imgur.com/C8G60lI.png" group-title="Adulte",Dorcel XXX
 https://mtv-live.cloud-02.molotov.tv/public/dorcelxxx/dorcelxxx.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Wk3Uwh.png" group-title="Adulte",Vixen TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/1Wk3Uwh.png" group-title="Adulte",Vixen TV
 https://mtv-live.cloud-02.molotov.tv/public/vixen/vixen.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ajvo2ni.png" group-title="Étrangères",C Direct
 https://mtv-live.cloud-02.molotov.tv/public/cdirect/cdirect.isml/dash/hdready.mpd
@@ -246,7 +246,7 @@ https://mtv-live.cloud-02.molotov.tv/public/sunuyeuf/sunuyeuf.isml/dash/hdready.
 https://mtv-live.cloud-02.molotov.tv/public/nollywoodtv/nollywoodtv.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/qqLhQD1.png" group-title="Étrangères",A+ International
 https://mtv-live.cloud-02.molotov.tv/public/aplus/aplus.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/CPq70Mn.png" group-title="Musique",Trace Africa
+#EXTINF:-1 tvg-id="TraceAFRICA.fr" tvg-logo="https://i.imgur.com/CPq70Mn.png" group-title="Musique",Trace Africa
 https://mtv-live.cloud-02.molotov.tv/public/traceafrica/traceafrica.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/xnUk1el.png" group-title="Étrangères",Nollywood Epic
 https://mtv-live.cloud-02.molotov.tv/public/nollywoodepic/nollywoodepic.isml/dash/hdready.mpd
@@ -316,5 +316,5 @@ https://mtv-live.cloud-02.molotov.tv/public/rotanamusic/rotanamusic.isml/dash/hd
 https://mtv-live.cloud-02.molotov.tv/public/echorouknews/echorouknews.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/INKHcll.png" group-title="Étrangères",El Bilad
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayBoyTV.eu" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
 https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd
