@@ -210,7 +210,7 @@
 
 <h2 align="center"><b>IPTV</b></h2>
 
-[Chaînes IPTV](https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/IPTV.m3u)
+[Chaînes IPTV](https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/IPTV.m3u) + [XMLTV](https://xmltvfr.fr/xmltv/xmltv.xml)
 
 [Radio](https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Radio.m3u)
 
