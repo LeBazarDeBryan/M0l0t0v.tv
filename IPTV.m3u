@@ -113,7 +113,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/YZ1TaiX.png" group-title="Étrangères",i24 News Arabe
 
-#EXTINF:-1 tvg-id="viaTelePaese.tv" tvg-logo="https://i.imgur.com/sR1Ffly.png" group-title="Étrangères",viàTéléPaese
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/sR1Ffly.png" group-title="Étrangères",viàTéléPaese
 https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/FnQK5qp.png" group-title="Information",Cheddar News
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
@@ -228,7 +228,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/DeZNN72.png" group-title="Divertissement",Luxe TV 4K
 https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd
-#EXTINF:-1 tvg-id="Novelas.tv" tvg-logo="https://i.imgur.com/Q8IQGVB.png" group-title="Étrangères",Novelas TV
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-logo="https://i.imgur.com/Q8IQGVB.png" group-title="Étrangères",Novelas TV
 https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="DorcelTV.com" tvg-logo="https://i.imgur.com/E8CDnCN.png" group-title="Adulte",Dorcel TV
 https://mtv-live.cloud-02.molotov.tv/public/dorceltv/dorceltv.isml/dash/hdready.mpd
@@ -236,85 +236,85 @@ https://mtv-live.cloud-02.molotov.tv/public/dorceltv/dorceltv.isml/dash/hdready.
 https://mtv-live.cloud-02.molotov.tv/public/dorcelxxx/dorcelxxx.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Wk3Uwh.png" group-title="Adulte",Vixen TV
 https://mtv-live.cloud-02.molotov.tv/public/vixen/vixen.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajvo2ni.png" group-title="Étrangères",C Direct
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ajvo2ni.png" group-title="Étrangères",C Direct
 https://mtv-live.cloud-02.molotov.tv/public/cdirect/cdirect.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DImKMHb.png" group-title="Étrangères",NCI
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/DImKMHb.png" group-title="Étrangères",NCI
 https://mtv-live.cloud-02.molotov.tv/public/nci/nci.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="SunuYeuf.com" tvg-logo="https://i.imgur.com/BovQbXB.png" group-title="Étrangères",Sunu Yeuf
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/BovQbXB.png" group-title="Étrangères",Sunu Yeuf
 https://mtv-live.cloud-02.molotov.tv/public/sunuyeuf/sunuyeuf.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="NollywoodTV.fr" tvg-logo="https://i.imgur.com/97F6IOI.png" group-title="Étrangères",Nollywood TV
+#EXTINF:-1 tvg-id="Nollywood.fr" tvg-logo="https://i.imgur.com/97F6IOI.png" group-title="Étrangères",Nollywood TV
 https://mtv-live.cloud-02.molotov.tv/public/nollywoodtv/nollywoodtv.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="A-Plus.com" tvg-logo="https://i.imgur.com/qqLhQD1.png" group-title="Étrangères",A+ International
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/qqLhQD1.png" group-title="Étrangères",A+ International
 https://mtv-live.cloud-02.molotov.tv/public/aplus/aplus.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="Trace.tv" tvg-logo="https://i.imgur.com/CPq70Mn.png" group-title="Musique",Trace Africa
 https://mtv-live.cloud-02.molotov.tv/public/traceafrica/traceafrica.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="NollywoodTV.fr" tvg-logo="https://i.imgur.com/xnUk1el.png" group-title="Étrangères",Nollywood Epic
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/xnUk1el.png" group-title="Étrangères",Nollywood Epic
 https://mtv-live.cloud-02.molotov.tv/public/nollywoodepic/nollywoodepic.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="AfricableTelevision.com" tvg-logo="https://i.imgur.com/G8FOm85.png" group-title="Étrangères",Africable
+#EXTINF:-1 tvg-id="AFRICABLE.civ" tvg-logo="https://i.imgur.com/G8FOm85.png" group-title="Étrangères",Africable
 https://mtv-live.cloud-02.molotov.tv/public/africable/africable.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="RTS.sn" tvg-logo="https://i.imgur.com/gBCfXjf.png" group-title="Étrangères",RTS 1 Sénégale
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/gBCfXjf.png" group-title="Étrangères",RTS 1 Sénégale
 https://mtv-live.cloud-02.molotov.tv/public/rts1/rts1.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="2STV.net" tvg-logo="https://i.imgur.com/YEpkdxr.png" group-title="Étrangères",2STV
+#EXTINF:-1 tvg-id="2STV.civ" tvg-logo="https://i.imgur.com/YEpkdxr.png" group-title="Étrangères",2STV
 free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/2stvsenegal
-#EXTINF:-1 tvg-id="SenTV.sn" tvg-logo="https://i.imgur.com/kBnFapg.png" group-title="Étrangères",Sen TV
+#EXTINF:-1 tvg-id="SENTV.civ" tvg-logo="https://i.imgur.com/kBnFapg.png" group-title="Étrangères",Sen TV
 https://mtv-live.cloud-02.molotov.tv/public/sentv/sentv.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kya7IyO.png" group-title="Étrangères",TFM
+#EXTINF:-1 tvg-id="TFM.civ" tvg-logo="https://i.imgur.com/kya7IyO.png" group-title="Étrangères",TFM
 https://mtv-live.cloud-02.molotov.tv/public/tfm/tfm.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="RTI.ci" tvg-logo="https://i.imgur.com/8k0N2ZB.png" group-title="Étrangères",RTI 1
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/8k0N2ZB.png" group-title="Étrangères",RTI 1
 https://mtv-live.cloud-02.molotov.tv/public/rti1/rti1.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="B-OneTV.cd" tvg-logo="https://i.imgur.com/DmQsNxv.png" group-title="Étrangères",B-One
+#EXTINF:-1 tvg-id="B-ONE.civ" tvg-logo="https://i.imgur.com/DmQsNxv.png" group-title="Étrangères",B-One
 https://mtv-live.cloud-02.molotov.tv/public/bone/bone.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Canal2International.net" tvg-logo="https://i.imgur.com/cKRaOvq.png" group-title="Étrangères",Canal 2 International
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/cKRaOvq.png" group-title="Étrangères",Canal 2 International
 free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Canal2internationalOfficiel
-#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://i.imgur.com/TIePQPT.png" group-title="Étrangères",CRTV
+#EXTINF:-1 tvg-id="CRTV.civ" tvg-logo="https://i.imgur.com/TIePQPT.png" group-title="Étrangères",CRTV
 free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/crtv237
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IBGGdch.png" group-title="Étrangères",ORTM
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/IBGGdch.png" group-title="Étrangères",ORTM
 https://mtv-live.cloud-02.molotov.tv/public/ortm/ortm.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w4bniiq.png" group-title="Étrangères",Cherifla
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/w4bniiq.png" group-title="Étrangères",Cherifla
 https://mtv-live.cloud-02.molotov.tv/public/cherifla/cherifla.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="TeleCongo.tk" tvg-logo="https://i.imgur.com/xf37t6Q.png" group-title="Étrangères",Tele Congo
+#EXTINF:-1 tvg-id="TeleCongo.COD" tvg-logo="https://i.imgur.com/xf37t6Q.png" group-title="Étrangères",Tele Congo
 https://mtv-live.cloud-02.molotov.tv/public/telecongo/telecongo.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="RTGkoloma.info" tvg-logo="https://i.imgur.com/WwZEfWm.png" group-title="Étrangères",RTG
+#EXTINF:-1 tvg-id="rtgtv" tvg-logo="https://i.imgur.com/WwZEfWm.png" group-title="Étrangères",RTG
 https://helga.iptv2022.com/RTG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://i.imgur.com/xj4gXFP.png" group-title="Étrangères",TVT
+#EXTINF:-1 tvg-id="TVT.pl" tvg-logo="https://i.imgur.com/xj4gXFP.png" group-title="Étrangères",TVT
 https://mtv-live.cloud-02.molotov.tv/public/tvt/tvt.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-logo="https://i.imgur.com/fGxerLG.png" group-title="Étrangères",ORTB
+#EXTINF:-1 tvg-id="ORTB.civ" tvg-logo="https://i.imgur.com/fGxerLG.png" group-title="Étrangères",ORTB
 https://strfla72.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="RTB.bf" tvg-logo="https://i.imgur.com/r5AND7h.png" group-title="Étrangères",RTB
+#EXTINF:-1 tvg-id="tvcen" tvg-logo="https://i.imgur.com/r5AND7h.png" group-title="Étrangères",RTB
 https://mtv-live.cloud-02.molotov.tv/public/rtb/rtb.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="GabonTelevision.ga" tvg-logo="https://i.imgur.com/fDceWTs.png" group-title="Étrangères",Gabon TV
+#EXTINF:-1 tvg-id="GABONTV.civ" tvg-logo="https://i.imgur.com/fDceWTs.png" group-title="Étrangères",Gabon TV
 https://mtv-live.cloud-02.molotov.tv/public/gabontv/gabontv.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="AlResalah.net" tvg-logo="https://i.imgur.com/xzjfG0s.png" group-title="Étrangères",Al Resalah
 https://mtv-live.cloud-02.molotov.tv/public/alresalah/alresalah.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w62eo8k.png" group-title="Étrangères",2M Monde
+#EXTINF:-1 tvg-id="2MMaroc.ma" tvg-logo="https://i.imgur.com/w62eo8k.png" group-title="Étrangères",2M Monde
 https://mtv-live.cloud-02.molotov.tv/public/2mmonde/2mmonde.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RTQPYIP.png" group-title="Étrangères",Baraem
+#EXTINF:-1 tvg-id="Baraem.net" tvg-logo="https://i.imgur.com/RTQPYIP.png" group-title="Étrangères",Baraem
 https://mtv-live.cloud-02.molotov.tv/public/baraem/baraem.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="EchoroukOnline.com" tvg-logo="https://i.imgur.com/WVMbDUD.png" group-title="Étrangères",Echorouk TV HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/WVMbDUD.png" group-title="Étrangères",Echorouk TV HD
 https://mtv-live.cloud-02.molotov.tv/public/echorouktvhd/echorouktvhd.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="JeemTV.net" tvg-logo="https://i.imgur.com/ITIIqeM.png" group-title="Étrangères",Jeem
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ITIIqeM.png" group-title="Étrangères",Jeem
 https://mtv-live.cloud-02.molotov.tv/public/jeem/jeem.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Nessma.tv" tvg-logo="https://i.imgur.com/KIMVMdL.png" group-title="Étrangères",Nessma
+#EXTINF:-1 tvg-id="NESSMA.tn" tvg-logo="https://i.imgur.com/KIMVMdL.png" group-title="Étrangères",Nessma
 https://mtv-live.cloud-02.molotov.tv/public/nessma/nessma.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Rotana.net" tvg-logo="https://i.imgur.com/DVJ1D2V.png" group-title="Étrangères",Rotana Clip
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/DVJ1D2V.png" group-title="Étrangères",Rotana Clip
 https://mtv-live.cloud-02.molotov.tv/public/rotanaclip/rotanaclip.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Rotana.net" tvg-logo="https://i.imgur.com/uC06RtD.png" group-title="Étrangères",Rotana Drama
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/uC06RtD.png" group-title="Étrangères",Rotana Drama
 https://mtv-live.cloud-02.molotov.tv/public/rotanadrama/rotanadrama.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="SamiraTV.dz" tvg-logo="https://i.imgur.com/yzg4c3J.png" group-title="Étrangères",Samira TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/yzg4c3J.png" group-title="Étrangères",Samira TV
 https://mtv-live.cloud-02.molotov.tv/public/samiratv/samiratv.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fp4FWif.png" group-title="Étrangères",Gulli Bil Arabi
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/fp4FWif.png" group-title="Étrangères",Gulli Bil Arabi
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-id="Rotana.net" tvg-logo="https://i.imgur.com/x56m0Gz.png" group-title="Étrangères",Rotana Comedy
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/x56m0Gz.png" group-title="Étrangères",Rotana Comedy
 https://mtv-live.cloud-02.molotov.tv/public/rotanacomedy/rotanacomedy.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Rotana.net" tvg-logo="https://i.imgur.com/MEHyfvQ.png" group-title="Étrangères",Rotana Cinema
+#EXTINF:-1 tvg-id="RotanaCinema.il" tvg-logo="https://i.imgur.com/MEHyfvQ.png" group-title="Étrangères",Rotana Cinema
 https://mtv-live.cloud-02.molotov.tv/public/rotanacinema/rotanacinema.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Rotana.net" tvg-logo="https://i.imgur.com/jfKnFK4.png" group-title="Étrangères",Rotana Classic
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/jfKnFK4.png" group-title="Étrangères",Rotana Classic
 https://mtv-live.cloud-02.molotov.tv/public/rotanaclassic/rotanaclassic.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Rotana.net" tvg-logo="https://i.imgur.com/eZAUll0.png" group-title="Étrangères",Rotana Music
+#EXTINF:-1 tvg-id="RotanaMusic.il" tvg-logo="https://i.imgur.com/eZAUll0.png" group-title="Étrangères",Rotana Music
 https://mtv-live.cloud-02.molotov.tv/public/rotanamusic/rotanamusic.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="EchoroukOnline.com" tvg-logo="https://i.imgur.com/kvANa7E.png" group-title="Étrangères",Echorouk News
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/kvANa7E.png" group-title="Étrangères",Echorouk News
 https://mtv-live.cloud-02.molotov.tv/public/echorouknews/echorouknews.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="HTATV.com" tvg-logo="https://i.imgur.com/INKHcll.png" group-title="Étrangères",El Bilad
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/INKHcll.png" group-title="Étrangères",El Bilad
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayBoyTV.eu" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
 https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd
