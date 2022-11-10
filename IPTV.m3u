@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="TNT",France 2
-https://live-ssai.ftven.fr/ZXhwPTE2NjgwMDU0MTF+YWNsPSUyZip+aG1hYz0zOGY0OWI3ZDI4MGY0YjMwNDk5OWUzYjQxZmY0Mjc4ZDg0OTQxZGNlNWI1MmJlYzIwMGI2NzNlZWM4ODI1ODdl/dai/v1/manifest/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/a066201f-fdfe-43f1-9589-642ca29d9c9f/5.m3u8
+http://www.callofliberty.fr/stream/france.2/master.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="TNT",France 3
 http://www.callofliberty.fr/stream/france.3/master.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/HlKW65X.png" group-title="Information",France 5
