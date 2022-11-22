@@ -143,9 +143,9 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv/luxetv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/rVslXze.png" title="Luxe TV">
 <a href="http://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd"><img src="https://i.imgur.com/DeZNN72.png" title="Luxe TV 4K">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/dash/hdready.mpd"><img src="https://i.imgur.com/Q8IQGVB.png" title="Novelas">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/dorceltv/dorceltv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/E8CDnCN.png" title="Dorcel TV">
+<a href="https://rplayer.surge.sh/?url=http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8"><img src="https://i.imgur.com/E8CDnCN.png" title="Dorcel TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/dorcelxxx/dorcelxxx.isml/dash/hdready.mpd"><img src="https://i.imgur.com/C8G60lI.png" title="Dorcel XXX">
-<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/vixen/vixen.isml/dash/hdready.mpd"><img src="https://i.imgur.com/1Wk3Uwh.png" title="Vixen TV">
+<a href="https://rplayer.surge.sh/?url=http://clientsportals.com:2095/f778W3He/yj7FXRjr/192675"><img src="https://i.imgur.com/1Wk3Uwh.png" title="Vixen TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/cdirect/cdirect.isml/dash/hdready.mpd"><img src="https://i.imgur.com/ajvo2ni.png" title="C Direct">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nci/nci.isml/dash/hdready.mpd"><img src="https://i.imgur.com/DImKMHb.png" title="NCi">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/sunuyeuf/sunuyeuf.isml/dash/hdready.mpd"><img src="https://i.imgur.com/BovQbXB.png" title="Sunu Yeuf">
