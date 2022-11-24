@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="TNT",France 2
-http://www.callofliberty.fr/stream/france.2/master.m3u8
+https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/vpnjbv4/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="TNT",France 3
-http://www.callofliberty.fr/stream/france.3/master.m3u8
+https://origin2.live.salto.fr/pool_u81ytesz/ftv3/saltohdb/hls_long_enc_ftv3/NA/vpnjbv4/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/HlKW65X.png" group-title="Information",France 5
-http://www.callofliberty.fr/stream/france.5/master.m3u8
+https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohdb/hls_long_enc_ftv5/NA/vpnjbv4/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/Baadm99.png" group-title="TNT",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/iUgaOBk.png" group-title="Documentaire",Arte
@@ -24,7 +24,7 @@ http://www.callofliberty.fr/stream/nrj12/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/QgySpKN.png" group-title="Information",LCP / Public Sénat
 https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
-http://www.callofliberty.fr/stream/france.4/master.m3u8
+https://origin2.live.salto.fr/pool_u81ytesz/ftv4/saltohdb/hls_long_enc_ftv4/NA/vpnjbv4/index.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/0A1Kfyd.png" group-title="Information",BFM TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.bfmtv.com/en-direct/
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/XqQErhH.png" group-title="TNT",CNEWS
