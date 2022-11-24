@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1
+
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="TNT",France 2
 http://www.callofliberty.fr/stream/france.2/master.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="TNT",France 3
@@ -153,10 +155,12 @@ https://live.tvradio-pitchoun.fr/hls/live.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/tTqQFqM.png" group-title="Enfants",Nickelodeon Junior
 https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://i.imgur.com/xuwvL4i.png" group-title="Enfants",Canal J
+https://origin2.live.salto.fr/pool_u81ytesz/canalj/saltohdd/hls_long_enc_canalj/NA/vpnjbv4/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/VG0Crzj.png" group-title="Enfants",Nickelodeon
-https://mtv-live.cloud-02.molotov.tv/public/canalj/canalj.isml/dash/hdready.mpd
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/ETRwMnX.png" group-title="Enfants",Nickelodeon +1
 https://mtv-live.cloud-02.molotov.tv/public/nickelodeon/nickelodeon.isml/dash/hdready.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/ETRwMnX.png" group-title="Enfants",Nickelodeon +1
+https://mtv-live.cloud-02.molotov.tv/public/nickelodeonplus1/nickelodeonplus1.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="Boomerang.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
 https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
 #EXTINF:-1 tvg-id="Boing.fr" tvg-logo="https://i.imgur.com/VfxrJTv.png" group-title="Enfants",Boing
