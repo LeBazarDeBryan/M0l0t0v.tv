@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1
-
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="TNT",France 2
 http://www.callofliberty.fr/stream/france.2/master.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="TNT",France 3
@@ -111,6 +109,12 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bsmart
 #EXTINF:-1 tvg-id="CNN.nws" tvg-logo="https://i.imgur.com/q4aawfk.png" group-title="Information",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Étrangères",France 24 English
+https://www.youtube-nocookie.com/embed/h3MuIUNCCzI?controls=0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Étrangères",France 24 Espagñol
+https://www.youtube-nocookie.com/embed/XDJPzMznAjU?controls=0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Étrangères",France 24 Arabic
+https://www.youtube-nocookie.com/embed/8BZpOolYLUA?controls=0
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/qHvhKoj.png" group-title="Étrangères",i24 News Anglais
 
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/YZ1TaiX.png" group-title="Étrangères",i24 News Arabe
@@ -322,3 +326,4 @@ https://mtv-live.cloud-02.molotov.tv/public/echorouknews/echorouknews.isml/dash/
 https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
 https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1 4K
