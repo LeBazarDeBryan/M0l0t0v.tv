@@ -100,7 +100,7 @@
 <a href="http://rplayer.surge.sh/?url=https://live.tvradio-pitchoun.fr/hls/live.m3u8"><img src="https://i.imgur.com/AkQAxb3.png" title="TV Pitchoun">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8"><img src="https://i.imgur.com/o0ypqoI.png" title="TIJI">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/dash/hdready.mpd"><img src="https://i.imgur.com/tTqQFqM.png" title="Nickelodeon Junior">
-<a href="https://origin2.live.salto.fr/pool_u81ytesz/canalj/saltohdd/hls_long_enc_canalj/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/FYyaFMr.png" title="Canal J">
+<a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/canalj/saltohdd/hls_long_enc_canalj/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/FYyaFMr.png" title="Canal J">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nickelodeon/nickelodeon.isml/dash/hdready.mpd"><img src="https://i.imgur.com/VG0Crzj.png" title="Nickelodeon">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nickelodeonplus1/nickelodeonplus1.isml/dash/hdready.mpd"><img src="https://i.imgur.com/ETRwMnX.png" title="Nickelodeon +1">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd"><img src="https://i.imgur.com/4V1l2vV.png" title="Boomerang">
