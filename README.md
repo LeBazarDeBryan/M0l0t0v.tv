@@ -77,6 +77,9 @@
 <a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8"><img src="https://i.imgur.com/27D1PrH.png" title="i24 News">
 <a href="https://www.dailymotion.com/embed/video/x7tn4fp?autoPlay=1"><img src="https://i.imgur.com/2C4Jg1J.png" title="B Smart">
 <a href="https://rplayer.surge.sh/?url=https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/q4aawfk.png" title="CNN">
+<a href="https://www.youtube-nocookie.com/embed/h3MuIUNCCzI?controls=0"><img src="" title="France 24 English">
+<a href="https://www.youtube-nocookie.com/embed/XDJPzMznAjU?controls=0"><img src="" title="France 24 Espagñol">
+<a href="https://www.youtube-nocookie.com/embed/8BZpOolYLUA?controls=0"><img src="" title="France 24 Arabic">
 <a href=""><img src="https://i.imgur.com/qHvhKoj.png" title="i24 News Anglais">
 <a href=""><img src="https://i.imgur.com/YZ1TaiX.png" title="i24 News Arabe">
 <a href="https://rplayer.surge.sh/?url=https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8"><img src="https://i.imgur.com/sR1Ffly.png" title="viàTéléPaese">
