@@ -109,11 +109,11 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bsmart
 #EXTINF:-1 tvg-id="CNN.nws" tvg-logo="https://i.imgur.com/q4aawfk.png" group-title="Information",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Étrangères",France 24 English
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wW1wfnr.png" group-title="Étrangères",France 24 English
 https://www.youtube-nocookie.com/embed/h3MuIUNCCzI?controls=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Étrangères",France 24 Espagñol
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NMTXzU4.png" group-title="Étrangères",France 24 Espagñol
 https://www.youtube-nocookie.com/embed/XDJPzMznAjU?controls=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Étrangères",France 24 Arabic
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bUGIosQ.png" group-title="Étrangères",France 24 Arabic
 https://www.youtube-nocookie.com/embed/8BZpOolYLUA?controls=0
 #EXTINF:-1 tvg-id="i24News.tv" tvg-logo="https://i.imgur.com/qHvhKoj.png" group-title="Étrangères",i24 News Anglais
 
