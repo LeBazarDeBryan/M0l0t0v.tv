@@ -8,12 +8,12 @@
 
 #
   
-|     Séctions     |
-|------------------|
-| [0. Acceuil](https://github.com/N0ub4x/M0l0t0v.tv#readme) |
-| [1. Chaînes](https://github.com/N0ub4x/M0l0t0v.tv#cha%C3%AEnes) |
-| [2. Radio](https://github.com/N0ub4x/M0l0t0v.tv#Radio) |
-| [3. IPTV](https://github.com/N0ub4x/M0l0t0v.tv#iptv) |
+|   |     Séctions     |
+|---|------------------|
+| 0 | [Acceuil](https://github.com/N0ub4x/M0l0t0v.tv#readme) |
+| 1 | [Chaînes](https://github.com/N0ub4x/M0l0t0v.tv#cha%C3%AEnes) |
+| 2 | [Radio](https://github.com/N0ub4x/M0l0t0v.tv#Radio) |
+| 3 | [IPTV](https://github.com/N0ub4x/M0l0t0v.tv#iptv) |
 
 
 <h2 align="center"><b>Chaînes</b></h2>
