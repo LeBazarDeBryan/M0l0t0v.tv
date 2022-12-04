@@ -41,7 +41,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://www.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.php"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
 <a href="https://www.callofliberty.fr/tv/25-Cherie25/25-Cherie25.php"><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
-<a href="http://rplayer.surge.sh/?url=https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
+<a href="https://rplayer.surge.sh/?url=https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
 <a href="https://www.youtube.com/watch?v=Z-Nwo-ypKtM"><img src="https://i.imgur.com/Fm4HJ6M.png" title="franceinfo:">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango/mango.isml/hdready.mpd"><img src="https://i.imgur.com/qPC3x37.png" title="MANGO">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-cinema/mango-cinema.isml/hdready.mpd"><img src="https://i.imgur.com/jPz2OH1.png" title="MANGO Cinéma">
@@ -100,7 +100,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd"><img src="https://i.imgur.com/muP0StS.png" title="Paramount Channel Décalé">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/drivein/drivein.isml/dash/hdready.mpd"><img src="https://i.imgur.com/KnnveOB.png" title="Drive-in Movie Channel">
 <a href="https://rplayer.surge.sh/?url=https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/W0sgr2j.png" title="Duck TV">
-<a href="http://rplayer.surge.sh/?url=https://live.tvradio-pitchoun.fr/hls/live.m3u8"><img src="https://i.imgur.com/AkQAxb3.png" title="TV Pitchoun">
+<a href="https://rplayer.surge.sh/?url=https://live.tvradio-pitchoun.fr/hls/live.m3u8"><img src="https://i.imgur.com/AkQAxb3.png" title="TV Pitchoun">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8"><img src="https://i.imgur.com/o0ypqoI.png" title="TIJI">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/dash/hdready.mpd"><img src="https://i.imgur.com/tTqQFqM.png" title="Nickelodeon Junior">
 <a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/canalj/saltohdd/hls_long_enc_canalj/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/FYyaFMr.png" title="Canal J">
@@ -129,7 +129,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nrjhits/nrjhits.isml/dash/hdready.mpd"><img src="https://i.imgur.com/dBtAfR0.png" title="NRJ Hits">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/m6music/m6music.isml/dash/hdready.mpd"><img src="https://i.imgur.com/G1lEnb3.png" title="M6 Music">
 <a href=""><img src="https://i.imgur.com/jXjYg13.png" title="BET">
-<a href="http://rplayer.surge.sh/?url=http://ott-cdn.ucom.am/s35/index.m3u8"><img src="https://i.imgur.com/jujiSWj.png" title="Mezzo">
+<a href="https://rplayer.surge.sh/?url=http://ott-cdn.ucom.am/s35/index.m3u8"><img src="https://i.imgur.com/jujiSWj.png" title="Mezzo">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/mezzolive/mezzolive.isml/dash/hdready.mpd"><img src="https://i.imgur.com/rBuw40i.png" title="Mezzo Live HD">
 <a href="https://rplayer.surge.sh/?url=https://amg01131-tracetv-tracelatinach-samsungch-q77mm.amagi.tv/playlist/amg01131-tracetv-tracelatinach-samsungch/cb54341f6570608e84cb3b66cef341a8f92713dc067a8b6b7fd908c83095691bdae2b5d1f943ec6f0898498b301768025e31d618df2955dad72cfc07297a157c9998b173de9f125dbabaaa1b10904288f4763f35e10f6154ebab7c2e973cbb7a006199630c7307fd718d604478f3f54fc92069de87fc59de8ddf6ebd673ea1e20fe0adbe18078f7e8489aa99061a67d4f537aafe25ccc28505ca53f335b506beaa20275a21a0b49764836fc0351a151075908e33f4a338e08dca3969ce3240d27d24eb240837df16ae673ace28cfc045f2813384e500947238ab05d77f85228378907ecd906fadaca1d04c011aa8cb4e6501b2eaae9e895549dd6492ca88af1306fa9c75294daa3c8c72ea7994bcf3074c506d6bd28e842603f4/140/1920x1080_4716800/index.m3u8"><img src="https://i.imgur.com/r9MfPzk.png" title="Trace Latina">
 <a href="https://www.hlsplayer.org/play?url=https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"><img src="https://i.imgur.com/el7rxCx.png" title="Trace Urban">
@@ -144,7 +144,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/winamax/winamax.isml/dash/hdready.mpd"><img src="https://i.imgur.com/tDRjavH.png" title="Winamax TV">
 <a href="https://rplayer.surge.sh/?url=https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8"><img src="https://i.imgur.com/N6rn8J3.png" title="Fashion TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv/luxetv.isml/dash/hdready.mpd"><img src="https://i.imgur.com/rVslXze.png" title="Luxe TV">
-<a href="http://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd"><img src="https://i.imgur.com/DeZNN72.png" title="Luxe TV 4K">
+<a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/luxetv4k/luxetv4k.isml/all.mpd"><img src="https://i.imgur.com/DeZNN72.png" title="Luxe TV 4K">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/novelas/novelas.isml/dash/hdready.mpd"><img src="https://i.imgur.com/Q8IQGVB.png" title="Novelas">
 <a href="https://rplayer.surge.sh/?url=http://213.226.69.130/iptv/BF9GWX8VNPYM9X/245/index.m3u8"><img src="https://i.imgur.com/E8CDnCN.png" title="Dorcel TV">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/dorcelxxx/dorcelxxx.isml/dash/hdready.mpd"><img src="https://i.imgur.com/C8G60lI.png" title="Dorcel XXX">
