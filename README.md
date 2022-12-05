@@ -1,19 +1,19 @@
-<p align="center"><a href="https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Logo.gif"><img src="https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Bienvenue.png" title="Bienvenue"></p></a>
+<p align="center"><a href="https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/Logo.gif"><img src="https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/Bienvenue.png" title="Bienvenue"></p></a>
 
 #
 
 <h1 align="center"><b>M0l0t0v.tv</b></h2>
 <p align="center">
-<a href="https://github.com/N0ub4x/M0l0t0v.tv/blob/main/LICENSE#L1" alt="License : MIT License"><img src="https://img.shields.io/badge/License-MIT-%23ff554d.svg"></a>
+<a href="https://github.com/LeBazarDeBryan/M0l0t0v.tv#license" alt="License : MIT License"><img src="https://img.shields.io/badge/License-MIT-%23ff554d.svg"></a>
 
 #
   
 |   |     Séctions     |
 |---|------------------|
-| 0 | [Acceuil](https://github.com/N0ub4x/M0l0t0v.tv#readme) |
-| 1 | [Chaînes](https://github.com/N0ub4x/M0l0t0v.tv#cha%C3%AEnes) |
-| 2 | [Radio](https://github.com/N0ub4x/M0l0t0v.tv#Radio) |
-| 3 | [IPTV](https://github.com/N0ub4x/M0l0t0v.tv#iptv) |
+| 0 | [Acceuil](https://github.com/LeBazarDeBryan/M0l0t0v.tv#readme) |
+| 1 | [Chaînes](https://github.com/LeBazarDeBryan/M0l0t0v.tv#cha%C3%AEnes) |
+| 2 | [Radio](https://github.com/LeBazarDeBryan/M0l0t0v.tv#Radio) |
+| 3 | [IPTV](https://github.com/LeBazarDeBryan/M0l0t0v.tv#iptv) |
 
 
 <h2 align="center"><b>Chaînes</b></h2>
@@ -214,9 +214,9 @@
 
 <h2 align="center"><b>IPTV</b></h2>
 
-[Chaînes IPTV](https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/IPTV.m3u) + [XMLTV](https://xmltvfr.fr/xmltv/xmltv.xml)
+[Chaînes IPTV](https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/IPTV.m3u) + [XMLTV](https://xmltvfr.fr/xmltv/xmltv.xml)
 
-[Radio](https://raw.githubusercontent.com/N0ub4x/M0l0t0v.tv/main/Radio.m3u)
+[Radio](https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/Radio.m3u)
 
 (Clic Droit > Copier l'adresse du lien)
 
