@@ -144,7 +144,7 @@ https://mtv-live.cloud-02.molotov.tv/public/cineclub/cineclub.isml/dash/hdready.
 #EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-logo="https://i.imgur.com/wYeP8zO.png" group-title="Cinéma, Séries",Ciné+ Classic
 https://mtv-live.cloud-02.molotov.tv/public/cineclassic/cineclassic.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="Action.fr" tvg-logo="https://i.imgur.com/2hdd6qW.png" group-title="Cinéma, Séries",ACTION
-https://mtv-live.cloud-02.molotov.tv/public/action/action.isml/dash/hdready.mpd
+http://red.ipfox.org:8080/osama2022/osama2023/48200
 #EXTINF:-1 tvg-id="TCM.fr" tvg-logo="https://i.imgur.com/swjnqpY.png" group-title="Cinéma, Séries",TCM Cinéma
 https://mtv-live.cloud-02.molotov.tv/public/tcm/tcm.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://i.imgur.com/ox6gjKG.png" group-title="Cinéma, Séries",Paramount Channel
@@ -166,9 +166,9 @@ https://mtv-live.cloud-02.molotov.tv/public/nickelodeon/nickelodeon.isml/dash/hd
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/ETRwMnX.png" group-title="Enfants",Nickelodeon +1
 https://mtv-live.cloud-02.molotov.tv/public/nickelodeonplus1/nickelodeonplus1.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="Boomerang.fr" tvg-logo="https://i.imgur.com/4V1l2vV.png" group-title="Enfants",Boomerang
-https://mtv-live.cloud-02.molotov.tv/public/boomerang/boomerang.isml/hdready.mpd
+http://red.ipfox.org:8080/osama2022/osama2023/48055
 #EXTINF:-1 tvg-id="Boing.fr" tvg-logo="https://i.imgur.com/VfxrJTv.png" group-title="Enfants",Boing
-https://mtv-live.cloud-02.molotov.tv/public/boing/boing.isml/dash/hdready.mpd
+http://red.ipfox.org:8080/osama2022/osama2023/48046
 #EXTINF:-1 tvg-id="Toonami.fr" tvg-logo="https://i.imgur.com/Nqu3gFR.png" group-title="Divertissement",Toonami
 https://mtv-live.cloud-02.molotov.tv/public/toonami/toonami.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://i.imgur.com/IsX3sz6.png" group-title="Divertissement",Game One
@@ -327,3 +327,6 @@ https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SgAtWCQ.png" group-title="Adulte",Playboy TV Europe
 https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/ylenAuO.png" group-title="TNT",TF1 4K
+
+#EXTINF:-1, --- Bonus ---
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TNT",Canal+
