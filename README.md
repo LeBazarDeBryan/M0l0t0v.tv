@@ -1,12 +1,6 @@
 <p align="center"><a href="https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/Logo.gif"><img src="https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/Bienvenue.png" title="Bienvenue"></p></a>
 
 #
-
-<h1 align="center"><b>M0l0t0v.tv</b></h2>
-<p align="center">
-<a href="https://github.com/LeBazarDeBryan/M0l0t0v.tv#license" alt="License : MIT License"><img src="https://img.shields.io/badge/License-MIT-%23ff554d.svg"></a>
-
-#
   
 |   |     Séctions     |
 |---|------------------|
@@ -14,9 +8,11 @@
 | 1 | [Chaînes](https://github.com/LeBazarDeBryan/M0l0t0v.tv#cha%C3%AEnes) |
 | 2 | [Radio](https://github.com/LeBazarDeBryan/M0l0t0v.tv#Radio) |
 | 3 | [IPTV](https://github.com/LeBazarDeBryan/M0l0t0v.tv#iptv) |
+| 4 | [License](https://github.com/LeBazarDeBryan/M0l0t0v.tv#license) |
 
+#
 
-<h2 align="center"><b>Chaînes</b></h2>
+<h2 align="center">Chaînes</h2>
 
 <a href="https://rplayer.surge.sh/?url=https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
 <a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
@@ -192,7 +188,14 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/playboytveurope/playboytveurope.isml/hdready.mpd"><img src="https://i.imgur.com/SgAtWCQ.png" title="Playboy TV Europe">
 <a href=""><img src="https://i.imgur.com/ylenAuO.png" title="TF1 4K">
 
-<h2 align="center"><b>Radio</b></h2>
+
+<h2 align="center">Bonus</h2>
+
+<a href="https://www.dailymotion.com/embed/video/x5gv6be?autoplay=1"><img src="https://i.imgur.com/m37Xprs.png" height="80" width="80" title="Canal+">
+<a href="http://ott-cdn.ucom.am/s49/index.m3u8"><img src="https://i.imgur.com/GzhbKjO.png" height="80" width="80" title="MCM">
+
+
+<h2 align="center">Radio</h2>
 
 <a href="https://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8"><img src="https://i.imgur.com/o3KKaX6.png" height="80" width="80" title="FUN Radio">
 <a href="https://rplayer.surge.sh/?url=https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8"><img src="https://i.imgur.com/NYR2R3h.png" height="80" width="80" title="FUN Radio Anthology">
@@ -211,8 +214,7 @@
 <a href="https://rplayer.surge.sh/?url=https://stream.virginradio.fr/vr-wr3.mp3"><img src="https://i.imgur.com/17Kfmsr.png" height="80" width="80" title="Virgin Radio Electroshock">
 
 
-
-<h2 align="center"><b>IPTV</b></h2>
+<h2 align="center">IPTV</h2>
 
 [Chaînes IPTV](https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/IPTV.m3u) + [XMLTV](https://xmltvfr.fr/xmltv/xmltv.xml)
 
@@ -221,7 +223,7 @@
 (Clic Droit > Copier l'adresse du lien)
 
 
-<h2 align="center"><b>License</b></h2>
+<h2 align="center">License</h2>
 
     MIT License
 
