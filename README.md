@@ -24,7 +24,7 @@
 <a href="https://rplayer.surge.sh/?url=https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w9/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/dRAPU7O.png" titleF="W9">
 <a href="https://rplayer.surge.sh/?url=https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8"><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
 <a href="https://rplayer.surge.sh/?url=https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
-<a href="https://www.callofliberty.fr/tv/12-NRJ12/12-NRJ12.php"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
+<a href="https://rplayer.surge.sh/?url=https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
 <a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv4/saltohdb/hls_long_enc_ftv4/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
 <a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
