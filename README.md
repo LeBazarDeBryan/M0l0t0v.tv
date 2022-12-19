@@ -15,9 +15,9 @@
 <h2 align="center">Chaînes</h2>
 
 <a href="https://rplayer.surge.sh/?url=https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/out/v1/d44ead847e874bf391f7a5999c5c6d3c/tf1-hls-drm/index.m3u8"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
-<a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
-<a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv3/saltohdb/hls_long_enc_ftv3/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/ZgTTt3L.png" title="France 3">
-<a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohdb/hls_long_enc_ftv5/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/HlKW65X.png" title="France 5">
+<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr2.m3u8"><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
+<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr3.m3u8"><img src="https://i.imgur.com/ZgTTt3L.png" title="France 3">
+<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr5.m3u8"><img src="https://i.imgur.com/HlKW65X.png" title="France 5">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"><img src="https://i.imgur.com/Baadm99.png" title="M6">
 <a href="https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"><img src="https://i.imgur.com/iUgaOBk.png" title="Arte">
 <a href="https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
@@ -26,7 +26,7 @@
 <a href="https://rplayer.surge.sh/?url=https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
 <a href="https://rplayer.surge.sh/?url=https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
 <a href="https://rplayer.surge.sh/?url=https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd"><img src="https://i.imgur.com/QgySpKN.png" title="LCP / Public Sénat">
-<a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv4/saltohdb/hls_long_enc_ftv4/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
+<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr4.m3u8"><img src="https://i.imgur.com/l7Mr4WR.png" title="France 4">
 <a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
 <a href="https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
 <a href="https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
@@ -38,7 +38,7 @@
 <a href="https://www.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.php"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
 <a href="https://www.callofliberty.fr/tv/25-Cherie25/25-Cherie25.php"><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
 <a href="https://rplayer.surge.sh/?url=https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8"><img src="https://i.imgur.com/FpltHeB.png" title="LCI">
-<a href="https://www.youtube.com/watch?v=Z-Nwo-ypKtM"><img src="https://i.imgur.com/Fm4HJ6M.png" title="franceinfo:">
+<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fri.m3u8"><img src="https://i.imgur.com/Fm4HJ6M.png" title="franceinfo:">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango/mango.isml/hdready.mpd"><img src="https://i.imgur.com/qPC3x37.png" title="MANGO">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-cinema/mango-cinema.isml/hdready.mpd"><img src="https://i.imgur.com/jPz2OH1.png" title="MANGO Cinéma">
 <a href="https://rplayer.surge.sh/?url=https://vod2live-mtv.cloud-01.molotov.tv/public/v1/mango-series/mango-series.isml/hdready.mpd"><img src="https://i.imgur.com/9HIJXSn.png" title="MANGO Séries">
