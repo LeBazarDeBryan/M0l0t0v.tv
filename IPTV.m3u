@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/N8nu5sm.png" group-title="TNT",TF1
 https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/out/v1/d44ead847e874bf391f7a5999c5c6d3c/tf1-hls-drm/index.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="TNT",France 2
-https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/vpnjbv4/index.m3u8
+https://github.com/ipstreet312/freeiptv/raw/master/feed/fr2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="TNT",France 3
-https://origin2.live.salto.fr/pool_u81ytesz/ftv3/saltohdb/hls_long_enc_ftv3/NA/vpnjbv4/index.m3u8
+https://github.com/ipstreet312/freeiptv/raw/master/feed/fr3.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/HlKW65X.png" group-title="Information",France 5
-https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohdb/hls_long_enc_ftv5/NA/vpnjbv4/index.m3u8
+https://github.com/ipstreet312/freeiptv/raw/master/feed/fr5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/Baadm99.png" group-title="TNT",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/iUgaOBk.png" group-title="Documentaire",Arte
@@ -24,7 +24,7 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/QgySpKN.png" group-title="Information",LCP / Public Sénat
 https://live-molotov.fubo.tv/public/lcpps/lcpps.isml/hdready.mpd
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="Divertissement",France 4
-https://origin2.live.salto.fr/pool_u81ytesz/ftv4/saltohdb/hls_long_enc_ftv4/NA/vpnjbv4/index.m3u8
+https://github.com/ipstreet312/freeiptv/raw/master/feed/fr5.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/0A1Kfyd.png" group-title="Information",BFM TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.bfmtv.com/en-direct/
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/XqQErhH.png" group-title="TNT",CNEWS
@@ -38,7 +38,7 @@ https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m
 #EXTINF:-1 tvg-id="Equipe21.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="Sport",L'Équipe
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="Cinéma, Séries",6ter
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/hls_short_enc_6ter/NA/vpnjbv4/index.m3u8
+https://github.com/ipstreet312/freeiptv/raw/master/feed/6ter.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="Documentaire & Culture",RMC Story
 https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd
 #EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-logo="https://i.imgur.com/m2iiCtm.png" group-title="Documentaire & Culture",RMC Découverte
