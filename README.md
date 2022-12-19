@@ -14,7 +14,7 @@
 
 <h2 align="center">Chaînes</h2>
 
-<a href="https://rplayer.surge.sh/?url=https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
+<a href="https://rplayer.surge.sh/?url=https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/out/v1/d44ead847e874bf391f7a5999c5c6d3c/tf1-hls-drm/index.m3u8"><img src="https://i.imgur.com/N8nu5sm.png" title="TF1">
 <a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/eBGccGn.png" title="France 2">
 <a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv3/saltohdb/hls_long_enc_ftv3/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/ZgTTt3L.png" title="France 3">
 <a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohdb/hls_long_enc_ftv5/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/HlKW65X.png" title="France 5">
