@@ -33,7 +33,7 @@
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
 <a href="https://rplayer.surge.sh/?url=https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
 <a href="https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
-<a href="https://rplayer.surge.sh/?url=https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhde/hls_short_enc_6ter/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
+<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/6ter.m3u8"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://www.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.php"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
 <a href="https://www.callofliberty.fr/tv/25-Cherie25/25-Cherie25.php"><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
