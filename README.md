@@ -21,7 +21,7 @@
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"><img src="https://i.imgur.com/Baadm99.png" title="M6">
 <a href="https://rplayer.surge.sh/?url=https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"><img src="https://i.imgur.com/iUgaOBk.png" title="Arte">
 <a href="https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1"><img src="https://i.imgur.com/HnvLFwK.png" title="C8">
-<a href="https://rplayer.surge.sh/?url=https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w9/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/dRAPU7O.png" titleF="W9">
+<a href="https://rplayer.surge.sh/?url=https://github.com/ipstreet312/freeiptv/raw/master/feed/w9.m3u8"><img src="https://i.imgur.com/dRAPU7O.png" titleF="W9">
 <a href="https://rplayer.surge.sh/?url=https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8"><img src="https://i.imgur.com/E1k83NG.png" title="TMC">
 <a href="https://rplayer.surge.sh/?url=https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8"><img src="https://i.imgur.com/amAmDGS.png" title="TFX">
 <a href="https://rplayer.surge.sh/?url=https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8"><img src="https://i.imgur.com/ERsgHRi.png" title="NRJ 12">
