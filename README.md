@@ -192,7 +192,7 @@
 
 <h2 align="center">Bonus</h2>
 
-<a href="https://www.dailymotion.com/video/x5gv6be"><img src="https://i.imgur.com/m37Xprs.png" height="80" width="80" title="Canal+">
+<a href="https://www.dailymotion.com/embed/video/x5gv6be?autoPlay=1"><img src="https://i.imgur.com/m37Xprs.png" height="80" width="80" title="Canal+">
 <a href="https://rplayer.surge.sh/?url=http://ott-cdn.ucom.am/s49/index.m3u8"><img src="https://i.imgur.com/GzhbKjO.png" height="80" width="80" title="MCM Top">
 
 #
