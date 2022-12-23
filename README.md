@@ -33,7 +33,7 @@
 <a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
 <a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/TF1_SF"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
 <a href="https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
-<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/6ter.m3u8"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
+<a href="https://rplayer.surge.sh/?url=https://raw.githubusercontent.com/LeBazarDeBryan/Stream4M0l0t0v.tv/main/6ter.m3u8"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/rmcstory/rmcstory.isml/hdready.mpd"><img src="https://i.imgur.com/OhoqSl0.png" title="RMC Story">
 <a href="https://www.callofliberty.fr/tv/24-RMCDECOUVERTE/24-RMCDECOUVERTE.php"><img src="https://i.imgur.com/m2iiCtm.png" title="RMC Découverte">
 <a href="https://www.callofliberty.fr/tv/25-Cherie25/25-Cherie25.php"><img src="https://i.imgur.com/g9EdDZC.png" title="Chérie 25">
@@ -96,7 +96,7 @@
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchanneldecale.isml/dash/hdready.mpd"><img src="https://i.imgur.com/muP0StS.png" title="Paramount Channel Décalé">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/drivein/drivein.isml/dash/hdready.mpd"><img src="https://i.imgur.com/KnnveOB.png" title="Drive-in Movie Channel">
 <a href="https://rplayer.surge.sh/?url=https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8"><img src="https://i.imgur.com/W0sgr2j.png" title="Duck TV">
-<a href="https://rplayer.surge.sh/?url=https://live.tvradio-pitchoun.fr/hls/live.m3u8"><img src="https://i.imgur.com/AkQAxb3.png" title="TV Pitchoun">
+<a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/TVPitchoun"><img src="https://i.imgur.com/AkQAxb3.png" title="TV Pitchoun">
 <a href="https://bitmovin.com/demos/stream-test?format=hls&manifest=https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8"><img src="https://i.imgur.com/o0ypqoI.png" title="TIJI">
 <a href="https://rplayer.surge.sh/?url=https://mtv-live.cloud-02.molotov.tv/public/nickelodeonjunior/nickelodeonjunior.isml/dash/hdready.mpd"><img src="https://i.imgur.com/tTqQFqM.png" title="Nickelodeon Junior">
 <a href="https://rplayer.surge.sh/?url=https://origin2.live.salto.fr/pool_u81ytesz/canalj/saltohdd/hls_long_enc_canalj/NA/vpnjbv4/index.m3u8"><img src="https://i.imgur.com/FYyaFMr.png" title="Canal J">
@@ -192,7 +192,7 @@
 
 <h2 align="center">Bonus</h2>
 
-<a href="https://www.dailymotion.com/embed/video/x5gv6be"><img src="https://i.imgur.com/m37Xprs.png" height="80" width="80" title="Canal+">
+<a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/Canal+"><img src="https://i.imgur.com/m37Xprs.png" height="80" width="80" title="Canal+">
 <a href="https://rplayer.surge.sh/?url=http://ott-cdn.ucom.am/s49/index.m3u8"><img src="https://i.imgur.com/GzhbKjO.png" height="80" width="80" title="MCM Top">
 
 #
