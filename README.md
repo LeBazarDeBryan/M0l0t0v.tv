@@ -30,7 +30,7 @@
 <a href="https://rplayer.surge.sh/?url=https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"><img src="https://i.imgur.com/0A1Kfyd.png" title="BFM TV">
 <a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/CNEWS"><img src="https://i.imgur.com/XqQErhH.png" title="CNEWS">
 <a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/CSTAR"><img src="https://i.imgur.com/fa1H0oA.png" title="CSTAR">
-<a href="https://rplayer.surge.sh/?url=https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
+<a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/Gulli"><img src="https://i.imgur.com/B9GfpDR.png" title="Gulli">
 <a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/TF1_SF"><img src="https://i.imgur.com/oN9xZYT.png" title="TF1 Séries Films">
 <a href="https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1"><img src="https://i.imgur.com/ed0syYj.png" title="L'Équipe">
 <a href="https://lebazardebryan.github.io/Stream4M0l0t0v.tv/6ter"><img src="https://i.imgur.com/zV6ENp8.png" title="6ter">
