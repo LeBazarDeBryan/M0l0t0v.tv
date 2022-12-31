@@ -154,7 +154,7 @@ https://mtv-live.cloud-02.molotov.tv/public/paramountchanneldecale/paramountchan
 #EXTINF:-1 tvg-id="DuckTV.day" tvg-logo="https://i.imgur.com/W0sgr2j.png" group-title="Enfants",Duck TV
 https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/AkQAxb3.png" group-title="Enfants",TV Pitchoun
-https://live.tvradio-pitchoun.fr/hls/live.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/Stream4M0l0t0v.tv/main/TVPitchoun.m3u8
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/o0ypqoI.png" group-title="Enfants",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-logo="https://i.imgur.com/tTqQFqM.png" group-title="Enfants",Nickelodeon Junior
