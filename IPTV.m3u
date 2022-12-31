@@ -32,11 +32,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNE
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://i.imgur.com/fa1H0oA.png" group-title="Divertissement",CSTAR
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CSTAR
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/B9GfpDR.png" group-title="Enfants",Gulli
-https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/Stream4M0l0t0v.tv/main/Gulli.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/oN9xZYT.png" group-title="Cinéma, Séries",TF1 Séries Films
-https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/Stream4M0l0t0v.tv/main/TF1_SF.m3u8
 #EXTINF:-1 tvg-id="Equipe21.fr" tvg-logo="https://i.imgur.com/ed0syYj.png" group-title="Sport",L'Équipe
-https://www.dailymotion.com/video/x2lefik
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="Cinéma, Séries",6ter
 https://raw.githubusercontent.com/LeBazarDeBryan/Stream4M0l0t0v.tv/main/6ter.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.imgur.com/OhoqSl0.png" group-title="Documentaire & Culture",RMC Story
@@ -72,7 +72,7 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="Étrangères",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/hP7Vrct.png" group-title="Information",LCP
-https://www.dailymotion.com/video/xji3qy
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xji3qy
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/J98BMed.png" group-title="Information",Public Sénat
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/IuuyI5W.png" group-title="Information",BFM Business
@@ -202,13 +202,13 @@ https://mtv-live.cloud-02.molotov.tv/public/sciencesvie/sciencesvie.isml/dash/hd
 #EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-logo="https://i.imgur.com/blWZF68.png" group-title="Documentaire & Culture",Toute l'Histoire
 https://mtv-live.cloud-02.molotov.tv/public/toutelhistoire/toutelhistoire.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/ibIPZb1.png" group-title="Divertissement",MTV
-http://190.2.155.162:8080/mtvfrance/mpegts
+https://mtv-live.cloud-02.molotov.tv/public/mtv/mtv.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="MTV.fr" tvg-logo="https://i.imgur.com/2jxEJwy.png" group-title="Musique",MTV Hits
-http://190.2.155.162:8080/mtvhit/mpegts
+https://mtv-live.cloud-02.molotov.tv/public/mtvhits/mtvhits.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-logo="https://i.imgur.com/dBtAfR0.png" group-title="Musique",NRJ Hits
 https://mtv-live.cloud-02.molotov.tv/public/nrjhits/nrjhits.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-logo="https://i.imgur.com/G1lEnb3.png" group-title="Musique",M6 Music
-http://190.2.155.162:8080/m6music/mpegts
+https://mtv-live.cloud-02.molotov.tv/public/m6music/m6music.isml/dash/hdready.mpd
 #EXTINF:-1 tvg-id="BETChannel.fr" tvg-logo="https://i.imgur.com/jXjYg13.png" group-title="Divertissement",BET
 
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://i.imgur.com/jujiSWj.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148" group-title="Documentaire & Culture",Mezzo
