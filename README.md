@@ -1,3 +1,10 @@
+<h1 align="center"> DISCONTINUED </h1>
+<h3 align="center"> Ce Projet est arrêté parce que je n'arrive plus à faire des mises à jour. </h3>
+<h3 align="center"> Ce Projet restera peut-être en ligne, je ne sais pas. </h3>
+<h3 align="center"> Je continuerais à mettre à jour la liste IPTV sur <a href="https://github.com/LeBazarDeBryan/XTVZ_">XTVZ_</a> mais ça sera différent.</h3>
+
+#
+
 <p align="center"><a href="https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/Logo.gif"><img src="https://raw.githubusercontent.com/LeBazarDeBryan/M0l0t0v.tv/main/Bienvenue.png" title="Bienvenue"></p></a>
 
 #
